@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="G7 2027">
+  <rect width="64" height="64" rx="5" fill="#0c2740"/>
+  <rect x="6" y="6" width="52" height="52" rx="2" fill="none" stroke="#d8e6e8" stroke-width="2"/>
+  <text x="13" y="39" fill="#ffffff" font-family="Georgia,serif" font-size="27" font-weight="700">G7</text>
+  <rect x="40" y="39" width="20" height="17" rx="1" fill="#c18b35"/>
+  <text x="44" y="51" fill="#071b2b" font-family="Arial,sans-serif" font-size="10" font-weight="800">27</text>
+</svg>
