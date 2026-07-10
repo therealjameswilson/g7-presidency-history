@@ -45,6 +45,11 @@ assert.equal(summits.find((item) => item.year === 2014).status, "replacement", "
 assert.ok(["virtual", "planned-not-held"].includes(summits.find((item) => item.year === 2020).status), "2020 must not appear as a normal in-person summit");
 assert.equal(summits.find((item) => item.year === 2026).host_country, "France", "2026 host must be France");
 
+const paris1989 = summits.find((item) => item.year === 1989);
+assert.match(paris1989.summary, /Financial Action Task Force \(FATF\)/, "1989 summary must identify the creation of FATF");
+assert.ok(paris1989.outcomes.some((item) => /Create the Financial Action Task Force \(FATF\)/.test(item)), "1989 outcomes must include FATF's creation");
+assert.ok(paris1989.documents.some((item) => item.url === "https://www.fatf-gafi.org/en/the-fatf/history-of-the-fatf.html" && item.tier === 1), "1989 record must link FATF's official history");
+
 for (const htmlName of ["index.html", "briefing.html", "sources.html", "404.html"]) {
   const html = await readFile(join(root, htmlName), "utf8");
   const localRefs = [...html.matchAll(/(?:href|src)="([^"#?]+)(?:[?#][^"]*)?"/g)]

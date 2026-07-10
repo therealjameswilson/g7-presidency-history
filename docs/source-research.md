@@ -60,6 +60,7 @@ The [Council of the European Union meeting record](https://www.consilium.europa.
 
 - [1975 Declaration of Rambouillet](https://www.g7.utoronto.ca/summit/1975rambouillet/communique.html)
 - [1976 San Juan Joint Declaration](https://www.g7.utoronto.ca/summit/1976sanjuan/communique.html)
+- [1989 Paris Economic Declaration](https://www.g7.utoronto.ca/summit/1989paris/communique/index.html) and [FATF’s official institutional history](https://www.fatf-gafi.org/en/the-fatf/history-of-the-fatf.html) — the summit created the Financial Action Task Force to examine money laundering and develop coordinated measures.
 - [1997 Denver Summit of the Eight communiqué](https://www.g7.utoronto.ca/summit/1997denver/g8final.htm)
 - [1998 Birmingham communiqué](https://www.g7.utoronto.ca/summit/1998birmingham/finalcom.htm)
 - [2013 Lough Erne communiqué](https://www.g7.utoronto.ca/summit/2013lougherne/lough-erne-communique.html)

@@ -819,8 +819,8 @@
         "display": "14–16 July 1989"
       },
       "era": "Established G7",
-      "summary": "The leaders’ agenda centered on maintaining balanced growth while containing inflation and unemployment; completing the Uruguay Round and integrating developing economies into world trade; and expanding debt relief and poverty-oriented development.",
-      "context": "Leaders from fifteen developing countries met with the G7 on the eve of the summit.",
+      "summary": "The leaders’ agenda centered on maintaining balanced growth while containing inflation and unemployment; completing the Uruguay Round and integrating developing economies into world trade; and expanding debt relief and poverty-oriented development. The Paris summit also created the Financial Action Task Force (FATF) to develop measures against money laundering.",
+      "context": "Leaders from fifteen developing countries met with the G7 on the eve of the summit. In the Economic Declaration, leaders called for FATF to examine money-laundering techniques, review existing cooperation, and recommend further measures.",
       "themes": [
         "Democracy and society",
         "Development and global partnerships",
@@ -836,9 +836,10 @@
         "Expand debt relief and poverty-oriented development",
         "Make environmental protection, ozone depletion, and climate a summit priority",
         "Support democratic and economic reform in Poland and Hungary",
-        "Address the Tiananmen crackdown through a separate China declaration"
+        "Address the Tiananmen crackdown through a separate China declaration",
+        "Create the Financial Action Task Force (FATF) to examine money-laundering methods and develop a coordinated international response"
       ],
-      "why_it_matters": "Leaders from fifteen developing countries met with the G7 on the eve of the summit.",
+      "why_it_matters": "The Paris summit created FATF, establishing a lasting G7-backed mechanism for international anti-money-laundering standards and cooperation.",
       "documents": [
         {
           "title": "Paris Economic Declaration",
@@ -853,11 +854,18 @@
           "publisher": "G7 Research Group, University of Toronto",
           "tier": 2,
           "type": "leaders declaration"
+        },
+        {
+          "title": "History of the FATF",
+          "url": "https://www.fatf-gafi.org/en/the-fatf/history-of-the-fatf.html",
+          "publisher": "Financial Action Task Force",
+          "tier": 1,
+          "type": "Official institutional history"
         }
       ],
-      "record_status": "Reviewed · archived official text",
+      "record_status": "Reviewed · official and archival sources linked",
       "data_gaps": [
-        "The original host-government page is not registered; the linked official summit text is accessed through the University of Toronto documentary archive."
+        "The Paris Economic Declaration is accessed through the University of Toronto documentary archive; FATF’s institutional history is linked from the issuing body."
       ],
       "is_us_host": false
     },

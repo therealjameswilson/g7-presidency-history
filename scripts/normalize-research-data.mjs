@@ -134,8 +134,18 @@ const evian2026Documents = [
   ["Leaders’ Declaration on the Fight Against Drug Trafficking", "https://www.elysee.fr/en/G7evian/2026/06/17/leaders-declaration-on-the-fight-against-drug-trafficking", "Leaders’ declaration"]
 ].map(([title, url, type]) => ({ title, url, publisher: "Élysée, Government of France", tier: 1, type }));
 
+const fatfFoundingOutcome = "Create the Financial Action Task Force (FATF) to examine money-laundering methods and develop a coordinated international response";
+const fatfHistoryDocument = {
+  title: "History of the FATF",
+  url: "https://www.fatf-gafi.org/en/the-fatf/history-of-the-fatf.html",
+  publisher: "Financial Action Task Force",
+  tier: 1,
+  type: "Official institutional history"
+};
+
 const summits = raw.summits.map((row) => {
-  const detailed = row.outcomes || row.themes || [];
+  const detailed = [...(row.outcomes || row.themes || [])];
+  if (row.year === 1989 && !detailed.some((item) => /Financial Action Task Force|\bFATF\b/i.test(item))) detailed.push(fatfFoundingOutcome);
   const searchText = [...detailed, ...(row.notes || []), row.summit_label].join(" ");
   const suppliedThemes = row.outcomes && row.themes?.every((theme) => themeRules.some(([label]) => label === theme)) ? row.themes : null;
   const policyThemes = suppliedThemes || themeRules.filter(([, pattern]) => pattern.test(searchText)).map(([label]) => label);
@@ -146,15 +156,19 @@ const summits = raw.summits.map((row) => {
     tier: tierFor(document),
     type: document.type ? String(document.type).replaceAll("_", " ") : typeFor(document.title)
   }));
+  if (row.year === 1989 && !documents.some((document) => document.url.includes("fatf-gafi.org"))) documents.push(fatfHistoryDocument);
   if (row.year === 2026) documents = evian2026Documents;
   const note = (row.notes || []).join(" ").trim()
     .replace("Elysee", "Élysée")
     .replace("nine leaders' declarations", "nine leaders’ texts")
     .replace("omnibus communique", "omnibus communiqué");
   const summaryItems = detailed.slice(0, 3).map(gerundPhrase);
-  const summary = `The leaders’ agenda centered on ${joinNatural(summaryItems)}.`;
-  const context = note || `This ${eraFor(row.year).toLowerCase()} meeting paired ${gerundPhrase(detailed[0])} with ${gerundPhrase(detailed[1] || detailed[0])}.`;
+  let summary = `The leaders’ agenda centered on ${joinNatural(summaryItems)}.`;
+  if (row.year === 1989) summary += " The Paris summit also created the Financial Action Task Force (FATF) to develop measures against money laundering.";
+  let context = note || `This ${eraFor(row.year).toLowerCase()} meeting paired ${gerundPhrase(detailed[0])} with ${gerundPhrase(detailed[1] || detailed[0])}.`;
+  if (row.year === 1989) context += " In the Economic Declaration, leaders called for FATF to examine money-laundering techniques, review existing cooperation, and recommend further measures.";
   const whyOverrides = {
+    1989: "The Paris summit created FATF, establishing a lasting G7-backed mechanism for international anti-money-laundering standards and cooperation.",
     2020: row.why_it_matters,
     2026: "The final summit before the 2027 U.S. presidency created a nine-text implementation record spanning security, global imbalances, critical minerals, AI and digital safety, partnerships, health, and transnational crime."
   };
@@ -164,6 +178,7 @@ const summits = raw.summits.map((row) => {
   if (!row.venue && row.year !== 2020) gaps.push("A precise leaders’ meeting venue is not registered in this release.");
   if (row.year === 2020) gaps.push("There was no single in-person annual summit; this record uses the March 16 emergency leaders’ videoconference and documents the cancelled Camp David plan.");
   if (archivalOnly) gaps.push("The original host-government page is not registered; the linked official summit text is accessed through the University of Toronto documentary archive.");
+  if (row.year === 1989) gaps.push("The Paris Economic Declaration is accessed through the University of Toronto documentary archive; FATF’s institutional history is linked from the issuing body.");
 
   return {
     id: row.id,
@@ -188,7 +203,7 @@ const summits = raw.summits.map((row) => {
     outcomes: detailed,
     why_it_matters: why,
     documents,
-    record_status: archivalOnly ? "Reviewed · archived official text" : "Reviewed · official source linked",
+    record_status: row.year === 1989 ? "Reviewed · official and archival sources linked" : archivalOnly ? "Reviewed · archived official text" : "Reviewed · official source linked",
     data_gaps: gaps,
     is_us_host: row.host_country === "United States"
   };
