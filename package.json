@@ -1,0 +1,14 @@
+{
+  "name": "g7-presidency-history",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Source-backed annual G7 leaders' summit history for 2027 U.S. presidency preparation",
+  "scripts": {
+    "build:data": "node scripts/normalize-research-data.mjs",
+    "test": "node tests/validate-data.mjs && node --check assets/site.js && node --check assets/explorer.js && node --check assets/briefing.js",
+    "serve": "python3 -m http.server 8000"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

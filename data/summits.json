@@ -1,0 +1,3073 @@
+{
+  "meta": {
+    "title": "G7 Presidency History: Annual Leaders’ Meetings, 1975–2026",
+    "purpose": "Policy-history dataset prepared to support advance work for the 2027 United States G7 presidency.",
+    "scope": "One record for each annual summit cycle from the first G6 meeting in 1975 through the completed 2026 G7 summit at Evian. Extraordinary inter-summit calls and ministerial meetings are excluded except where a note is essential to understanding the annual summit record.",
+    "updated": "2026-07-10",
+    "expected_records": 52,
+    "latest_completed_summit": "2026-evian",
+    "source_note": "Recent links point to host-government records where available. Many older links point to the University of Toronto G7 Research Group's archive of official summit texts; those records are marked archived_official_text.",
+    "uncertainty_note": "Null venue values are intentional where a precise meeting site was not established confidently from the reviewed sources. Themes are concise editorial summaries of the linked outcome documents, not quotations."
+  },
+  "summits": [
+    {
+      "id": "1975-rambouillet",
+      "number": 1,
+      "year": 1975,
+      "name": "Rambouillet",
+      "summit_title": "Rambouillet Summit",
+      "format": "G6",
+      "status": "held",
+      "host_country": "France",
+      "city": "Rambouillet",
+      "location": "Rambouillet",
+      "venue": "Château de Rambouillet",
+      "dates": {
+        "start": "1975-11-15",
+        "end": "1975-11-17",
+        "display": "15–17 November 1975"
+      },
+      "host_leader": "Valéry Giscard d’Estaing",
+      "era": "Founding group",
+      "summary": "The leaders’ agenda centered on coordinating recovery from recession, high unemployment, and inflation; improving monetary cooperation and responding to disorderly exchange-rate movements; and reducing vulnerability to energy shocks while conserving oil.",
+      "context": "The first summit and the only annual summit held as the G6: France, West Germany, Italy, Japan, the United Kingdom, and the United States.",
+      "themes": [
+        "Democracy and society",
+        "Development and global partnerships",
+        "Energy and resources",
+        "Institutional governance",
+        "Macroeconomic coordination",
+        "Trade"
+      ],
+      "outcomes": [
+        "Coordinate recovery from recession, high unemployment, and inflation",
+        "Improve monetary cooperation and respond to disorderly exchange-rate movements",
+        "Reduce vulnerability to energy shocks while conserving oil",
+        "Keep markets open and resist protectionism"
+      ],
+      "why_it_matters": "The first summit and the only annual summit held as the G6: France, West Germany, Italy, Japan, the United Kingdom, and the United States.",
+      "documents": [
+        {
+          "title": "Declaration of Rambouillet",
+          "url": "https://www.g7.utoronto.ca/summit/1975rambouillet/communique.html",
+          "publisher": "G7 Research Group, University of Toronto",
+          "tier": 2,
+          "type": "leaders declaration"
+        }
+      ],
+      "record_status": "Reviewed · archived official text",
+      "data_gaps": [
+        "The original host-government page is not registered; the linked official summit text is accessed through the University of Toronto documentary archive."
+      ],
+      "is_us_host": false
+    },
+    {
+      "id": "1976-san-juan",
+      "number": 2,
+      "year": 1976,
+      "name": "San Juan",
+      "summit_title": "San Juan Summit",
+      "format": "G7",
+      "status": "held",
+      "host_country": "United States",
+      "city": "Dorado, Puerto Rico",
+      "location": "Dorado, Puerto Rico",
+      "venue": "Dorado Beach Hotel",
+      "dates": {
+        "start": "1976-06-27",
+        "end": "1976-06-28",
+        "display": "27–28 June 1976"
+      },
+      "era": "Established G7",
+      "summary": "The leaders’ agenda centered on sustaining economic expansion while reducing unemployment and inflation; avoiding both excessive stimulus and premature restraint; and completing the Tokyo Round of multilateral trade negotiations.",
+      "context": "Canada joined, converting the G6 into the G7. The summit is conventionally called San Juan, although the declaration identifies Dorado Beach as the meeting place.",
+      "themes": [
+        "Democracy and society",
+        "Development and global partnerships",
+        "Energy and resources",
+        "Institutional governance",
+        "Macroeconomic coordination",
+        "Trade"
+      ],
+      "outcomes": [
+        "Sustain economic expansion while reducing unemployment and inflation",
+        "Avoid both excessive stimulus and premature restraint",
+        "Complete the Tokyo Round of multilateral trade negotiations",
+        "Coordinate energy and international monetary policy",
+        "Strengthen cooperation with developing countries and international institutions"
+      ],
+      "why_it_matters": "Canada joined, converting the G6 into the G7. The summit is conventionally called San Juan, although the declaration identifies Dorado Beach as the meeting place.",
+      "documents": [
+        {
+          "title": "Joint Declaration of the International Conference",
+          "url": "https://www.g7.utoronto.ca/summit/1976sanjuan/communique.html",
+          "publisher": "G7 Research Group, University of Toronto",
+          "tier": 2,
+          "type": "leaders declaration"
+        }
+      ],
+      "record_status": "Reviewed · archived official text",
+      "data_gaps": [
+        "The original host-government page is not registered; the linked official summit text is accessed through the University of Toronto documentary archive."
+      ],
+      "is_us_host": true
+    },
+    {
+      "id": "1977-london",
+      "number": 3,
+      "year": 1977,
+      "name": "London I",
+      "summit_title": "London I / Downing Street Summit",
+      "format": "G7",
+      "status": "held",
+      "host_country": "United Kingdom",
+      "city": "London",
+      "location": "London",
+      "venue": "10 Downing Street",
+      "dates": {
+        "start": "1977-05-07",
+        "end": "1977-05-08",
+        "display": "7–8 May 1977"
+      },
+      "era": "Established G7",
+      "summary": "The leaders’ agenda centered on setting country-specific growth objectives to create jobs without reigniting inflation; advancing the Tokyo Round and resisting protectionism; and conserve energy and expanding alternative and nuclear supplies.",
+      "context": "The European Community began participating through its institutional representatives, an arrangement that evolved into today's European Union participation.",
+      "themes": [
+        "Democracy and society",
+        "Energy and resources",
+        "Institutional governance",
+        "Macroeconomic coordination",
+        "Trade"
+      ],
+      "outcomes": [
+        "Set country-specific growth objectives to create jobs without reigniting inflation",
+        "Advance the Tokyo Round and resist protectionism",
+        "Conserve energy and expand alternative and nuclear supplies",
+        "Coordinate with the IMF, World Bank, GATT, and OECD"
+      ],
+      "why_it_matters": "The European Community began participating through its institutional representatives, an arrangement that evolved into today's European Union participation.",
+      "documents": [
+        {
+          "title": "Declaration: Downing Street Summit Conference",
+          "url": "https://www.g7.utoronto.ca/summit/1977london/communique.html",
+          "publisher": "G7 Research Group, University of Toronto",
+          "tier": 2,
+          "type": "leaders declaration"
+        }
+      ],
+      "record_status": "Reviewed · archived official text",
+      "data_gaps": [
+        "The original host-government page is not registered; the linked official summit text is accessed through the University of Toronto documentary archive."
+      ],
+      "is_us_host": false
+    },
+    {
+      "id": "1978-bonn",
+      "number": 4,
+      "year": 1978,
+      "name": "Bonn I",
+      "summit_title": "Bonn I Summit",
+      "format": "G7",
+      "status": "held",
+      "host_country": "Germany",
+      "host_country_historical": "West Germany",
+      "city": "Bonn",
+      "location": "Bonn",
+      "venue": null,
+      "dates": {
+        "start": "1978-07-16",
+        "end": "1978-07-17",
+        "display": "16–17 July 1978"
+      },
+      "era": "Established G7",
+      "summary": "The leaders’ agenda centered on adopting a coordinated package of country-specific measures for growth, jobs, and inflation control; setting oil-import restraint goals for the United States and European Community; and finishing the Tokyo Round by the end of 1978.",
+      "context": "This established g7 meeting paired adopting a coordinated package of country-specific measures for growth, jobs, and inflation control with setting oil-import restraint goals for the United States and European Community.",
+      "themes": [
+        "Democracy and society",
+        "Energy and resources",
+        "Institutional governance",
+        "Macroeconomic coordination",
+        "Peace and security",
+        "Trade"
+      ],
+      "outcomes": [
+        "Adopt a coordinated package of country-specific measures for growth, jobs, and inflation control",
+        "Set oil-import restraint goals for the United States and European Community",
+        "Finish the Tokyo Round by the end of 1978",
+        "Condemn international air hijacking and strengthen collective responses"
+      ],
+      "why_it_matters": "Shows how the established G7 coordinated macroeconomic policy while progressively widening its work to energy, development, security, and social issues.",
+      "documents": [
+        {
+          "title": "Bonn Summit Declaration",
+          "url": "https://www.g7.utoronto.ca/summit/1978bonn/communique.html",
+          "publisher": "G7 Research Group, University of Toronto",
+          "tier": 2,
+          "type": "leaders declaration"
+        },
+        {
+          "title": "Statement on Air-Hijacking",
+          "url": "https://www.g7.utoronto.ca/summit/1978bonn/hijacking.html",
+          "publisher": "G7 Research Group, University of Toronto",
+          "tier": 2,
+          "type": "thematic statement"
+        }
+      ],
+      "record_status": "Reviewed · archived official text",
+      "data_gaps": [
+        "A precise leaders’ meeting venue is not registered in this release.",
+        "The original host-government page is not registered; the linked official summit text is accessed through the University of Toronto documentary archive."
+      ],
+      "is_us_host": false
+    },
+    {
+      "id": "1979-tokyo",
+      "number": 5,
+      "year": 1979,
+      "name": "Tokyo I",
+      "summit_title": "Tokyo I Summit",
+      "format": "G7",
+      "status": "held",
+      "host_country": "Japan",
+      "city": "Tokyo",
+      "location": "Tokyo",
+      "venue": null,
+      "dates": {
+        "start": "1979-06-28",
+        "end": "1979-06-29",
+        "display": "28–29 June 1979"
+      },
+      "era": "Established G7",
+      "summary": "The leaders’ agenda centered on setting quantified ceilings on oil imports and accelerating conservation; develop coal, nuclear power, and other alternatives to imported oil; and coordinating growth, inflation, and balance-of-payments policies.",
+      "context": "This established g7 meeting paired setting quantified ceilings on oil imports and accelerating conservation with develop coal, nuclear power, and other alternatives to imported oil.",
+      "themes": [
+        "Democracy and society",
+        "Development and global partnerships",
+        "Energy and resources",
+        "Institutional governance",
+        "Macroeconomic coordination",
+        "Peace and security"
+      ],
+      "outcomes": [
+        "Set quantified ceilings on oil imports and accelerate conservation",
+        "Develop coal, nuclear power, and other alternatives to imported oil",
+        "Coordinate growth, inflation, and balance-of-payments policies",
+        "Respond collectively to the Indochinese refugee crisis"
+      ],
+      "why_it_matters": "Shows how the established G7 coordinated macroeconomic policy while progressively widening its work to energy, development, security, and social issues.",
+      "documents": [
+        {
+          "title": "Tokyo Summit Declaration",
+          "url": "https://www.g7.utoronto.ca/summit/1979tokyo/communique.html",
+          "publisher": "G7 Research Group, University of Toronto",
+          "tier": 2,
+          "type": "leaders declaration"
+        },
+        {
+          "title": "Special Statement of the Summit on Indochinese Refugees",
+          "url": "https://www.g7.utoronto.ca/summit/1979tokyo/refugee.html",
+          "publisher": "G7 Research Group, University of Toronto",
+          "tier": 2,
+          "type": "thematic statement"
+        }
+      ],
+      "record_status": "Reviewed · archived official text",
+      "data_gaps": [
+        "A precise leaders’ meeting venue is not registered in this release.",
+        "The original host-government page is not registered; the linked official summit text is accessed through the University of Toronto documentary archive."
+      ],
+      "is_us_host": false
+    },
+    {
+      "id": "1980-venice",
+      "number": 6,
+      "year": 1980,
+      "name": "Venice I",
+      "summit_title": "Venice I Summit",
+      "format": "G7",
+      "status": "held",
+      "host_country": "Italy",
+      "city": "Venice",
+      "location": "Venice",
+      "venue": null,
+      "dates": {
+        "start": "1980-06-22",
+        "end": "1980-06-23",
+        "display": "22–23 June 1980"
+      },
+      "era": "Established G7",
+      "summary": "The leaders’ agenda centered on making inflation control the leading economic priority while supporting investment and innovation; reducing oil consumption and dependence through national energy programs; and implementing the Tokyo Round and resisting new trade restrictions.",
+      "context": "Political-security statements became a more visible part of the summit record alongside economic coordination.",
+      "themes": [
+        "Democracy and society",
+        "Energy and resources",
+        "Macroeconomic coordination",
+        "Peace and security",
+        "Technology",
+        "Trade"
+      ],
+      "outcomes": [
+        "Make inflation control the leading economic priority while supporting investment and innovation",
+        "Reduce oil consumption and dependence through national energy programs",
+        "Implement the Tokyo Round and resist new trade restrictions",
+        "Address Afghanistan, diplomatic hostages, refugees, and hijacking in separate political statements"
+      ],
+      "why_it_matters": "Political-security statements became a more visible part of the summit record alongside economic coordination.",
+      "documents": [
+        {
+          "title": "Venice Summit Declaration",
+          "url": "https://www.g7.utoronto.ca/summit/1980venice/communique/index.html",
+          "publisher": "G7 Research Group, University of Toronto",
+          "tier": 2,
+          "type": "leaders declaration"
+        },
+        {
+          "title": "Statement on the Taking of Diplomatic Hostages",
+          "url": "https://www.g7.utoronto.ca/summit/1980venice/hostage.html",
+          "publisher": "G7 Research Group, University of Toronto",
+          "tier": 2,
+          "type": "thematic statement"
+        }
+      ],
+      "record_status": "Reviewed · archived official text",
+      "data_gaps": [
+        "A precise leaders’ meeting venue is not registered in this release.",
+        "The original host-government page is not registered; the linked official summit text is accessed through the University of Toronto documentary archive."
+      ],
+      "is_us_host": false
+    },
+    {
+      "id": "1981-ottawa-montebello",
+      "number": 7,
+      "year": 1981,
+      "name": "Ottawa-Montebello",
+      "summit_title": "Ottawa-Montebello Summit",
+      "format": "G7",
+      "status": "held",
+      "host_country": "Canada",
+      "city": "Montebello, Quebec",
+      "location": "Montebello, Quebec",
+      "venue": "Chateau Montebello",
+      "dates": {
+        "start": "1981-07-20",
+        "end": "1981-07-21",
+        "display": "20–21 July 1981"
+      },
+      "era": "Established G7",
+      "summary": "The leaders’ agenda centered on restoring sustainable growth while reducing inflation and unemployment; limiting destabilizing exchange-rate fluctuations; and strengthening energy security and conservation.",
+      "context": "Often listed as the Ottawa Summit; the principal retreat was at Montebello, Quebec. Leaders remained divided over aspects of East-West trade.",
+      "themes": [
+        "Democracy and society",
+        "Development and global partnerships",
+        "Energy and resources",
+        "Environment",
+        "Macroeconomic coordination",
+        "Peace and security"
+      ],
+      "outcomes": [
+        "Restore sustainable growth while reducing inflation and unemployment",
+        "Limit destabilizing exchange-rate fluctuations",
+        "Strengthen energy security and conservation",
+        "Advance North-South cooperation and development",
+        "Recognize environmental protection as an economic policy concern"
+      ],
+      "why_it_matters": "Often listed as the Ottawa Summit; the principal retreat was at Montebello, Quebec. Leaders remained divided over aspects of East-West trade.",
+      "documents": [
+        {
+          "title": "Declaration of the Ottawa Summit",
+          "url": "https://www.g7.utoronto.ca/summit/1981ottawa/communique/index.html",
+          "publisher": "G7 Research Group, University of Toronto",
+          "tier": 2,
+          "type": "leaders declaration"
+        },
+        {
+          "title": "Chairman's Summary of Political Issues",
+          "url": "https://www.g7.utoronto.ca/summit/1981ottawa/chairman.html",
+          "publisher": "G7 Research Group, University of Toronto",
+          "tier": 2,
+          "type": "chairs summary"
+        }
+      ],
+      "record_status": "Reviewed · archived official text",
+      "data_gaps": [
+        "The original host-government page is not registered; the linked official summit text is accessed through the University of Toronto documentary archive."
+      ],
+      "is_us_host": false
+    },
+    {
+      "id": "1982-versailles",
+      "number": 8,
+      "year": 1982,
+      "name": "Versailles",
+      "summit_title": "Versailles Summit",
+      "format": "G7",
+      "status": "held",
+      "host_country": "France",
+      "city": "Versailles",
+      "location": "Versailles",
+      "venue": "Palace of Versailles",
+      "dates": {
+        "start": "1982-06-04",
+        "end": "1982-06-06",
+        "display": "4–6 June 1982"
+      },
+      "era": "Established G7",
+      "summary": "The leaders’ agenda centered on seeking recovery and lowering unemployment without sacrificing price stability; strengthening monetary cooperation and the IMF's role; and maintaining an open trading system amid recession.",
+      "context": "This established g7 meeting paired seeking recovery and lowering unemployment without sacrificing price stability with strengthening monetary cooperation and the IMF's role.",
+      "themes": [
+        "Democracy and society",
+        "Development and global partnerships",
+        "Energy and resources",
+        "Institutional governance",
+        "Macroeconomic coordination",
+        "Technology"
+      ],
+      "outcomes": [
+        "Seek recovery and lower unemployment without sacrificing price stability",
+        "Strengthen monetary cooperation and the IMF's role",
+        "Maintain an open trading system amid recession",
+        "Coordinate cautious approaches to East-West economic relations",
+        "Promote technology, energy diversification, and development"
+      ],
+      "why_it_matters": "Shows how the established G7 coordinated macroeconomic policy while progressively widening its work to energy, development, security, and social issues.",
+      "documents": [
+        {
+          "title": "Declaration of the Seven Heads of State and Government and Representatives of the European Communities",
+          "url": "https://www.g7.utoronto.ca/summit/1982versailles/communique.html",
+          "publisher": "G7 Research Group, University of Toronto",
+          "tier": 2,
+          "type": "leaders communique"
+        }
+      ],
+      "record_status": "Reviewed · archived official text",
+      "data_gaps": [
+        "The original host-government page is not registered; the linked official summit text is accessed through the University of Toronto documentary archive."
+      ],
+      "is_us_host": false
+    },
+    {
+      "id": "1983-williamsburg",
+      "number": 9,
+      "year": 1983,
+      "name": "Williamsburg",
+      "summit_title": "Williamsburg Summit",
+      "format": "G7",
+      "status": "held",
+      "host_country": "United States",
+      "city": "Williamsburg, Virginia",
+      "location": "Williamsburg, Virginia",
+      "venue": "Colonial Williamsburg",
+      "dates": {
+        "start": "1983-05-28",
+        "end": "1983-05-30",
+        "display": "28–30 May 1983"
+      },
+      "era": "Established G7",
+      "summary": "The leaders’ agenda centered on consolidating non-inflationary recovery and reducing unemployment; lowering interest rates and public deficits through credible policies; and resisting protectionism and reviving multilateral trade.",
+      "context": "This established g7 meeting paired consolidating non-inflationary recovery and reducing unemployment with lowering interest rates and public deficits through credible policies.",
+      "themes": [
+        "Democracy and society",
+        "Development and global partnerships",
+        "Energy and resources",
+        "Environment",
+        "Global health",
+        "Institutional governance",
+        "Macroeconomic coordination",
+        "Peace and security",
+        "Technology",
+        "Trade"
+      ],
+      "outcomes": [
+        "Consolidate non-inflationary recovery and reduce unemployment",
+        "Lower interest rates and public deficits through credible policies",
+        "Resist protectionism and revive multilateral trade",
+        "Address developing-country debt and financing",
+        "Affirm allied security and pursue balanced arms reductions",
+        "Coordinate on energy, science and technology, environmental protection, and health"
+      ],
+      "why_it_matters": "Shows how the established G7 coordinated macroeconomic policy while progressively widening its work to energy, development, security, and social issues.",
+      "documents": [
+        {
+          "title": "Declaration on Economic Recovery",
+          "url": "https://www.g7.utoronto.ca/summit/1983williamsburg/communique.html",
+          "publisher": "G7 Research Group, University of Toronto",
+          "tier": 2,
+          "type": "leaders declaration"
+        },
+        {
+          "title": "Williamsburg Declaration on Security",
+          "url": "https://www.g7.utoronto.ca/summit/1983williamsburg/security.html",
+          "publisher": "G7 Research Group, University of Toronto",
+          "tier": 2,
+          "type": "leaders declaration"
+        }
+      ],
+      "record_status": "Reviewed · archived official text",
+      "data_gaps": [
+        "The original host-government page is not registered; the linked official summit text is accessed through the University of Toronto documentary archive."
+      ],
+      "is_us_host": true
+    },
+    {
+      "id": "1984-london",
+      "number": 10,
+      "year": 1984,
+      "name": "London II",
+      "summit_title": "London II Summit",
+      "format": "G7",
+      "status": "held",
+      "host_country": "United Kingdom",
+      "city": "London",
+      "location": "London",
+      "venue": "Lancaster House",
+      "dates": {
+        "start": "1984-06-07",
+        "end": "1984-06-09",
+        "display": "7–9 June 1984"
+      },
+      "era": "Established G7",
+      "summary": "The leaders’ agenda centered on sustaining recovery through monetary discipline and lowering inflation and interest rates; addressing developing-country debt through adjustment, finance, and growth; and resisting protectionism and strengthening the trade system.",
+      "context": "This established g7 meeting paired sustaining recovery through monetary discipline and lowering inflation and interest rates with addressing developing-country debt through adjustment, finance, and growth.",
+      "themes": [
+        "Democracy and society",
+        "Development and global partnerships",
+        "Institutional governance",
+        "Macroeconomic coordination",
+        "Peace and security",
+        "Trade"
+      ],
+      "outcomes": [
+        "Sustain recovery through monetary discipline and lower inflation and interest rates",
+        "Address developing-country debt through adjustment, finance, and growth",
+        "Resist protectionism and strengthen the trade system",
+        "Reaffirm democratic values and coordinate on terrorism",
+        "Pursue dialogue with the Soviet Union and arms control"
+      ],
+      "why_it_matters": "Shows how the established G7 coordinated macroeconomic policy while progressively widening its work to energy, development, security, and social issues.",
+      "documents": [
+        {
+          "title": "London Economic Declaration",
+          "url": "https://www.g7.utoronto.ca/summit/1984london/communique.html",
+          "publisher": "G7 Research Group, University of Toronto",
+          "tier": 2,
+          "type": "leaders declaration"
+        },
+        {
+          "title": "Declaration on Democratic Values",
+          "url": "https://www.g7.utoronto.ca/summit/1984london/democratic.html",
+          "publisher": "G7 Research Group, University of Toronto",
+          "tier": 2,
+          "type": "leaders declaration"
+        }
+      ],
+      "record_status": "Reviewed · archived official text",
+      "data_gaps": [
+        "The original host-government page is not registered; the linked official summit text is accessed through the University of Toronto documentary archive."
+      ],
+      "is_us_host": false
+    },
+    {
+      "id": "1985-bonn",
+      "number": 11,
+      "year": 1985,
+      "name": "Bonn II",
+      "summit_title": "Bonn II Summit",
+      "format": "G7",
+      "status": "held",
+      "host_country": "Germany",
+      "host_country_historical": "West Germany",
+      "city": "Bonn",
+      "location": "Bonn",
+      "venue": null,
+      "dates": {
+        "start": "1985-05-02",
+        "end": "1985-05-04",
+        "display": "2–4 May 1985"
+      },
+      "era": "Established G7",
+      "summary": "The leaders’ agenda centered on pursuing sustained growth and higher employment with low inflation; improving stability of the international monetary system; and launching a new GATT trade round and resisting protectionism.",
+      "context": "This established g7 meeting paired pursuing sustained growth and higher employment with low inflation with improving stability of the international monetary system.",
+      "themes": [
+        "Democracy and society",
+        "Development and global partnerships",
+        "Macroeconomic coordination",
+        "Peace and security",
+        "Trade"
+      ],
+      "outcomes": [
+        "Pursue sustained growth and higher employment with low inflation",
+        "Improve stability of the international monetary system",
+        "Launch a new GATT trade round and resist protectionism",
+        "Continue cooperation with developing countries on debt and growth",
+        "Reaffirm democratic cooperation on the fortieth anniversary of the end of World War II"
+      ],
+      "why_it_matters": "Shows how the established G7 coordinated macroeconomic policy while progressively widening its work to energy, development, security, and social issues.",
+      "documents": [
+        {
+          "title": "Bonn Economic Declaration: Towards Sustained Growth and Higher Employment",
+          "url": "https://www.g7.utoronto.ca/summit/1985bonn/communique.html",
+          "publisher": "G7 Research Group, University of Toronto",
+          "tier": 2,
+          "type": "leaders declaration"
+        },
+        {
+          "title": "Political Declaration on the 40th Anniversary of the End of the Second World War",
+          "url": "https://www.g7.utoronto.ca/summit/1985bonn/political.html",
+          "publisher": "G7 Research Group, University of Toronto",
+          "tier": 2,
+          "type": "leaders declaration"
+        }
+      ],
+      "record_status": "Reviewed · archived official text",
+      "data_gaps": [
+        "A precise leaders’ meeting venue is not registered in this release.",
+        "The original host-government page is not registered; the linked official summit text is accessed through the University of Toronto documentary archive."
+      ],
+      "is_us_host": false
+    },
+    {
+      "id": "1986-tokyo",
+      "number": 12,
+      "year": 1986,
+      "name": "Tokyo II",
+      "summit_title": "Tokyo II Summit",
+      "format": "G7",
+      "status": "held",
+      "host_country": "Japan",
+      "city": "Tokyo",
+      "location": "Tokyo",
+      "venue": null,
+      "dates": {
+        "start": "1986-05-04",
+        "end": "1986-05-06",
+        "display": "4–6 May 1986"
+      },
+      "era": "Established G7",
+      "summary": "The leaders’ agenda centered on promoting durable growth through structural reform and disciplined public spending; creating regular G7 finance-minister coordination and stronger multilateral surveillance; and advancing the new multilateral trade round.",
+      "context": "The summit institutionalized more regular G7 finance-minister surveillance between leaders' meetings.",
+      "themes": [
+        "Institutional governance",
+        "Macroeconomic coordination",
+        "Peace and security",
+        "Trade"
+      ],
+      "outcomes": [
+        "Promote durable growth through structural reform and disciplined public spending",
+        "Create regular G7 finance-minister coordination and stronger multilateral surveillance",
+        "Advance the new multilateral trade round",
+        "Respond to the Chernobyl accident with nuclear-safety cooperation",
+        "Strengthen action against international terrorism"
+      ],
+      "why_it_matters": "The summit institutionalized more regular G7 finance-minister surveillance between leaders' meetings.",
+      "documents": [
+        {
+          "title": "Tokyo Economic Declaration",
+          "url": "https://www.g7.utoronto.ca/summit/1986tokyo/communique.html",
+          "publisher": "G7 Research Group, University of Toronto",
+          "tier": 2,
+          "type": "leaders declaration"
+        },
+        {
+          "title": "Statement on the Implications of the Chernobyl Nuclear Accident",
+          "url": "https://www.g7.utoronto.ca/summit/1986tokyo/chernobyl.html",
+          "publisher": "G7 Research Group, University of Toronto",
+          "tier": 2,
+          "type": "thematic statement"
+        }
+      ],
+      "record_status": "Reviewed · archived official text",
+      "data_gaps": [
+        "A precise leaders’ meeting venue is not registered in this release.",
+        "The original host-government page is not registered; the linked official summit text is accessed through the University of Toronto documentary archive."
+      ],
+      "is_us_host": false
+    },
+    {
+      "id": "1987-venice",
+      "number": 13,
+      "year": 1987,
+      "name": "Venice II",
+      "summit_title": "Venice II Summit",
+      "format": "G7",
+      "status": "held",
+      "host_country": "Italy",
+      "city": "Venice",
+      "location": "Venice",
+      "venue": null,
+      "dates": {
+        "start": "1987-06-08",
+        "end": "1987-06-10",
+        "display": "8–10 June 1987"
+      },
+      "era": "Established G7",
+      "summary": "The leaders’ agenda centered on reducing unemployment, public deficits, and high interest rates; using structural reform to improve competitiveness and job creation; and strengthening multilateral economic and monetary surveillance.",
+      "context": "This established g7 meeting paired reducing unemployment, public deficits, and high interest rates with using structural reform to improve competitiveness and job creation.",
+      "themes": [
+        "Democracy and society",
+        "Development and global partnerships",
+        "Global health",
+        "Institutional governance",
+        "Macroeconomic coordination",
+        "Peace and security",
+        "Trade"
+      ],
+      "outcomes": [
+        "Reduce unemployment, public deficits, and high interest rates",
+        "Use structural reform to improve competitiveness and job creation",
+        "Strengthen multilateral economic and monetary surveillance",
+        "Resist protectionism and address developing-country debt",
+        "Coordinate on AIDS, drugs, terrorism, and Gulf security"
+      ],
+      "why_it_matters": "Shows how the established G7 coordinated macroeconomic policy while progressively widening its work to energy, development, security, and social issues.",
+      "documents": [
+        {
+          "title": "Venezia Economic Declaration",
+          "url": "https://www.g7.utoronto.ca/summit/1987venice/communique/index.html",
+          "publisher": "G7 Research Group, University of Toronto",
+          "tier": 2,
+          "type": "leaders declaration"
+        },
+        {
+          "title": "Chairman's Statement on AIDS",
+          "url": "https://www.g7.utoronto.ca/summit/1987venice/aids.html",
+          "publisher": "G7 Research Group, University of Toronto",
+          "tier": 2,
+          "type": "chairs summary"
+        }
+      ],
+      "record_status": "Reviewed · archived official text",
+      "data_gaps": [
+        "A precise leaders’ meeting venue is not registered in this release.",
+        "The original host-government page is not registered; the linked official summit text is accessed through the University of Toronto documentary archive."
+      ],
+      "is_us_host": false
+    },
+    {
+      "id": "1988-toronto",
+      "number": 14,
+      "year": 1988,
+      "name": "Toronto",
+      "summit_title": "Toronto Summit",
+      "format": "G7",
+      "status": "held",
+      "host_country": "Canada",
+      "city": "Toronto, Ontario",
+      "location": "Toronto, Ontario",
+      "venue": null,
+      "dates": {
+        "start": "1988-06-19",
+        "end": "1988-06-21",
+        "display": "19–21 June 1988"
+      },
+      "era": "Established G7",
+      "summary": "The leaders’ agenda centered on sustaining non-inflationary growth through coordinated policies; advancing the Uruguay Round and resisting protectionism; and offering more generous debt relief to the poorest countries through the Toronto terms.",
+      "context": "The 'Toronto terms' became an important milestone in official bilateral debt relief for low-income countries.",
+      "themes": [
+        "Democracy and society",
+        "Environment",
+        "Institutional governance",
+        "Macroeconomic coordination",
+        "Peace and security",
+        "Trade"
+      ],
+      "outcomes": [
+        "Sustain non-inflationary growth through coordinated policies",
+        "Advance the Uruguay Round and resist protectionism",
+        "Offer more generous debt relief to the poorest countries through the Toronto terms",
+        "Increase environmental cooperation",
+        "Coordinate on regional conflicts, human rights, and arms control"
+      ],
+      "why_it_matters": "The 'Toronto terms' became an important milestone in official bilateral debt relief for low-income countries.",
+      "documents": [
+        {
+          "title": "Toronto Economic Declaration",
+          "url": "https://www.g7.utoronto.ca/summit/1988toronto/communique.html",
+          "publisher": "G7 Research Group, University of Toronto",
+          "tier": 2,
+          "type": "leaders declaration"
+        },
+        {
+          "title": "Chairman's Summary of Political Issues",
+          "url": "https://www.g7.utoronto.ca/summit/1988toronto/chairman.html",
+          "publisher": "G7 Research Group, University of Toronto",
+          "tier": 2,
+          "type": "chairs summary"
+        }
+      ],
+      "record_status": "Reviewed · archived official text",
+      "data_gaps": [
+        "A precise leaders’ meeting venue is not registered in this release.",
+        "The original host-government page is not registered; the linked official summit text is accessed through the University of Toronto documentary archive."
+      ],
+      "is_us_host": false
+    },
+    {
+      "id": "1989-paris",
+      "number": 15,
+      "year": 1989,
+      "name": "Paris",
+      "summit_title": "Summit of the Arch / Paris Summit",
+      "format": "G7",
+      "status": "held",
+      "host_country": "France",
+      "city": "Paris",
+      "location": "Paris",
+      "venue": "Grande Arche de la Defense",
+      "dates": {
+        "start": "1989-07-14",
+        "end": "1989-07-16",
+        "display": "14–16 July 1989"
+      },
+      "era": "Established G7",
+      "summary": "The leaders’ agenda centered on maintaining balanced growth while containing inflation and unemployment; completing the Uruguay Round and integrating developing economies into world trade; and expanding debt relief and poverty-oriented development.",
+      "context": "Leaders from fifteen developing countries met with the G7 on the eve of the summit.",
+      "themes": [
+        "Democracy and society",
+        "Development and global partnerships",
+        "Environment",
+        "Institutional governance",
+        "Macroeconomic coordination",
+        "Peace and security",
+        "Trade"
+      ],
+      "outcomes": [
+        "Maintain balanced growth while containing inflation and unemployment",
+        "Complete the Uruguay Round and integrate developing economies into world trade",
+        "Expand debt relief and poverty-oriented development",
+        "Make environmental protection, ozone depletion, and climate a summit priority",
+        "Support democratic and economic reform in Poland and Hungary",
+        "Address the Tiananmen crackdown through a separate China declaration"
+      ],
+      "why_it_matters": "Leaders from fifteen developing countries met with the G7 on the eve of the summit.",
+      "documents": [
+        {
+          "title": "Paris Economic Declaration",
+          "url": "https://www.g7.utoronto.ca/summit/1989paris/communique/index.html",
+          "publisher": "G7 Research Group, University of Toronto",
+          "tier": 2,
+          "type": "leaders declaration"
+        },
+        {
+          "title": "Declaration on China",
+          "url": "https://www.g7.utoronto.ca/summit/1989paris/china.html",
+          "publisher": "G7 Research Group, University of Toronto",
+          "tier": 2,
+          "type": "leaders declaration"
+        }
+      ],
+      "record_status": "Reviewed · archived official text",
+      "data_gaps": [
+        "The original host-government page is not registered; the linked official summit text is accessed through the University of Toronto documentary archive."
+      ],
+      "is_us_host": false
+    },
+    {
+      "id": "1990-houston",
+      "number": 16,
+      "year": 1990,
+      "name": "Houston",
+      "summit_title": "Houston Summit",
+      "format": "G7",
+      "status": "held",
+      "host_country": "United States",
+      "city": "Houston, Texas",
+      "location": "Houston, Texas",
+      "venue": "Rice University",
+      "dates": {
+        "start": "1990-07-09",
+        "end": "1990-07-11",
+        "display": "9–11 July 1990"
+      },
+      "era": "Established G7",
+      "summary": "The leaders’ agenda centered on promoting balanced growth, investment, and deficit reduction; concluding the Uruguay Round and reducing trade-distorting agricultural subsidies; and supporting democratic and market transitions in Central and Eastern Europe.",
+      "context": "This established g7 meeting paired promoting balanced growth, investment, and deficit reduction with concluding the Uruguay Round and reducing trade-distorting agricultural subsidies.",
+      "themes": [
+        "Democracy and society",
+        "Development and global partnerships",
+        "Environment",
+        "Institutional governance",
+        "Macroeconomic coordination",
+        "Trade"
+      ],
+      "outcomes": [
+        "Promote balanced growth, investment, and deficit reduction",
+        "Conclude the Uruguay Round and reduce trade-distorting agricultural subsidies",
+        "Support democratic and market transitions in Central and Eastern Europe",
+        "Study Soviet economic reform and assistance needs",
+        "Address debt, development, the environment, and transnational crime"
+      ],
+      "why_it_matters": "Shows how the established G7 coordinated macroeconomic policy while progressively widening its work to energy, development, security, and social issues.",
+      "documents": [
+        {
+          "title": "Houston Economic Declaration",
+          "url": "https://www.g7.utoronto.ca/summit/1990houston/declaration.html",
+          "publisher": "G7 Research Group, University of Toronto",
+          "tier": 2,
+          "type": "leaders declaration"
+        },
+        {
+          "title": "Political Declaration: Securing Democracy",
+          "url": "https://www.g7.utoronto.ca/summit/1990houston/political.html",
+          "publisher": "G7 Research Group, University of Toronto",
+          "tier": 2,
+          "type": "leaders declaration"
+        }
+      ],
+      "record_status": "Reviewed · archived official text",
+      "data_gaps": [
+        "The original host-government page is not registered; the linked official summit text is accessed through the University of Toronto documentary archive."
+      ],
+      "is_us_host": true
+    },
+    {
+      "id": "1991-london",
+      "number": 17,
+      "year": 1991,
+      "name": "London III",
+      "summit_title": "London III Summit",
+      "format": "G7",
+      "status": "held",
+      "host_country": "United Kingdom",
+      "city": "London",
+      "location": "London",
+      "venue": "Lancaster House",
+      "dates": {
+        "start": "1991-07-15",
+        "end": "1991-07-17",
+        "display": "15–17 July 1991"
+      },
+      "era": "Post-Cold War transition",
+      "summary": "The leaders’ agenda centered on supporting sustained recovery, price stability, and lowering interest rates; completing the Uruguay Round through direct leaders' engagement if necessary; and building a post-Cold War international partnership and strengthening the United Nations.",
+      "context": "Gorbachev joined a post-summit dialogue, beginning a progressively deeper pattern of Russian participation.",
+      "themes": [
+        "Development and global partnerships",
+        "Institutional governance",
+        "Macroeconomic coordination",
+        "Peace and security",
+        "Trade"
+      ],
+      "outcomes": [
+        "Support sustained recovery, price stability, and lower interest rates",
+        "Complete the Uruguay Round through direct leaders' engagement if necessary",
+        "Build a post-Cold War international partnership and strengthen the United Nations",
+        "Engage Mikhail Gorbachev on Soviet political and economic reform",
+        "Control conventional arms transfers and nuclear, biological, and chemical proliferation"
+      ],
+      "why_it_matters": "Gorbachev joined a post-summit dialogue, beginning a progressively deeper pattern of Russian participation.",
+      "documents": [
+        {
+          "title": "Economic Declaration: Building World Partnership",
+          "url": "https://www.g7.utoronto.ca/summit/1991london/communique/index.html",
+          "publisher": "G7 Research Group, University of Toronto",
+          "tier": 2,
+          "type": "leaders declaration"
+        },
+        {
+          "title": "Political Declaration: Strengthening the International Order",
+          "url": "https://www.g7.utoronto.ca/summit/1991london/political.html",
+          "publisher": "G7 Research Group, University of Toronto",
+          "tier": 2,
+          "type": "leaders declaration"
+        }
+      ],
+      "record_status": "Reviewed · archived official text",
+      "data_gaps": [
+        "The original host-government page is not registered; the linked official summit text is accessed through the University of Toronto documentary archive."
+      ],
+      "is_us_host": false
+    },
+    {
+      "id": "1992-munich",
+      "number": 18,
+      "year": 1992,
+      "name": "Munich",
+      "summit_title": "Munich Summit",
+      "format": "G7",
+      "status": "held",
+      "host_country": "Germany",
+      "city": "Munich",
+      "location": "Munich",
+      "venue": null,
+      "dates": {
+        "start": "1992-07-06",
+        "end": "1992-07-08",
+        "display": "6–8 July 1992"
+      },
+      "era": "Post-Cold War transition",
+      "summary": "The leaders’ agenda centered on restoring growth and employment while reducing deficits and interest rates; promoting exchange-rate stability and stronger private investment; and completing the Uruguay Round.",
+      "context": "This post-cold war transition meeting paired restoring growth and employment while reducing deficits and interest rates with promoting exchange-rate stability and stronger private investment.",
+      "themes": [
+        "Democracy and society",
+        "Development and global partnerships",
+        "Environment",
+        "Macroeconomic coordination",
+        "Peace and security",
+        "Trade"
+      ],
+      "outcomes": [
+        "Restore growth and employment while reducing deficits and interest rates",
+        "Promote exchange-rate stability and stronger private investment",
+        "Complete the Uruguay Round",
+        "Forge a new partnership with Russia and the other post-communist states",
+        "Respond to war in the former Yugoslavia",
+        "Integrate environmental goals into economic policy"
+      ],
+      "why_it_matters": "Tracks the G7 adaptation to the end of the Cold War, post-communist transitions, and Russia's gradual incorporation into summit diplomacy.",
+      "documents": [
+        {
+          "title": "Working Together for Growth and a Safer World",
+          "url": "https://www.g7.utoronto.ca/summit/1992munich/communique/index.html",
+          "publisher": "G7 Research Group, University of Toronto",
+          "tier": 2,
+          "type": "thematic statement"
+        },
+        {
+          "title": "Declaration on Former Yugoslavia",
+          "url": "https://www.g7.utoronto.ca/summit/1992munich/yugoslavia.html",
+          "publisher": "G7 Research Group, University of Toronto",
+          "tier": 2,
+          "type": "leaders declaration"
+        }
+      ],
+      "record_status": "Reviewed · archived official text",
+      "data_gaps": [
+        "A precise leaders’ meeting venue is not registered in this release.",
+        "The original host-government page is not registered; the linked official summit text is accessed through the University of Toronto documentary archive."
+      ],
+      "is_us_host": false
+    },
+    {
+      "id": "1993-tokyo",
+      "number": 19,
+      "year": 1993,
+      "name": "Tokyo III",
+      "summit_title": "Tokyo III Summit",
+      "format": "G7",
+      "status": "held",
+      "host_country": "Japan",
+      "city": "Tokyo",
+      "location": "Tokyo",
+      "venue": null,
+      "dates": {
+        "start": "1993-07-07",
+        "end": "1993-07-09",
+        "display": "7–9 July 1993"
+      },
+      "era": "Post-Cold War transition",
+      "summary": "The leaders’ agenda centered on creating jobs and reviving growth through structural reform; completing the Uruguay Round after a major market-access agreement; and provide substantial support for Russian reform.",
+      "context": "Some host materials include preparatory events beginning July 6; the standard leaders' summit dates are July 7-9.",
+      "themes": [
+        "Democracy and society",
+        "Institutional governance",
+        "Macroeconomic coordination",
+        "Peace and security",
+        "Trade"
+      ],
+      "outcomes": [
+        "Create jobs and revive growth through structural reform",
+        "Complete the Uruguay Round after a major market-access agreement",
+        "Provide substantial support for Russian reform",
+        "Strengthen United Nations peacekeeping and peacebuilding",
+        "Coordinate against terrorism and weapons proliferation"
+      ],
+      "why_it_matters": "Some host materials include preparatory events beginning July 6; the standard leaders' summit dates are July 7-9.",
+      "documents": [
+        {
+          "title": "Economic Declaration: A Strengthened Commitment to Jobs and Growth",
+          "url": "https://www.g7.utoronto.ca/summit/1993tokyo/communique/index.html",
+          "publisher": "G7 Research Group, University of Toronto",
+          "tier": 2,
+          "type": "leaders declaration"
+        },
+        {
+          "title": "Political Declaration: Striving for a More Secure and Humane World",
+          "url": "https://www.g7.utoronto.ca/summit/1993tokyo/political.html",
+          "publisher": "G7 Research Group, University of Toronto",
+          "tier": 2,
+          "type": "leaders declaration"
+        }
+      ],
+      "record_status": "Reviewed · archived official text",
+      "data_gaps": [
+        "A precise leaders’ meeting venue is not registered in this release.",
+        "The original host-government page is not registered; the linked official summit text is accessed through the University of Toronto documentary archive."
+      ],
+      "is_us_host": false
+    },
+    {
+      "id": "1994-naples",
+      "number": 20,
+      "year": 1994,
+      "name": "Naples",
+      "summit_title": "Naples Summit",
+      "format": "G7/G8 transition",
+      "status": "held",
+      "host_country": "Italy",
+      "city": "Naples",
+      "location": "Naples",
+      "venue": "Royal Palace of Naples",
+      "dates": {
+        "start": "1994-07-08",
+        "end": "1994-07-10",
+        "display": "8–10 July 1994"
+      },
+      "era": "Post-Cold War transition",
+      "summary": "The leaders’ agenda centered on using structural reform, education, training, and innovation to improve jobs and growth; implementing the Uruguay Round and prepare the World Trade Organization; and develop the emerging global information society.",
+      "context": "Russia participated fully in political discussions, often described as the P8 or G7 plus one, while the economic core remained G7.",
+      "themes": [
+        "Democracy and society",
+        "Development and global partnerships",
+        "Institutional governance",
+        "Macroeconomic coordination",
+        "Peace and security",
+        "Technology",
+        "Trade"
+      ],
+      "outcomes": [
+        "Use structural reform, education, training, and innovation to improve jobs and growth",
+        "Implement the Uruguay Round and prepare the World Trade Organization",
+        "Develop the emerging global information society",
+        "Support reform and nuclear safety in Russia and other transition states",
+        "Address Bosnia, Croatia, and other regional conflicts"
+      ],
+      "why_it_matters": "Russia participated fully in political discussions, often described as the P8 or G7 plus one, while the economic core remained G7.",
+      "documents": [
+        {
+          "title": "Naples Summit Communique",
+          "url": "https://www.g7.utoronto.ca/summit/1994naples/communique/index.html",
+          "publisher": "G7 Research Group, University of Toronto",
+          "tier": 2,
+          "type": "leaders communique"
+        },
+        {
+          "title": "Chairman's Political Statement",
+          "url": "https://www.g7.utoronto.ca/summit/1994naples/chairman.html",
+          "publisher": "G7 Research Group, University of Toronto",
+          "tier": 2,
+          "type": "chairs summary"
+        }
+      ],
+      "record_status": "Reviewed · archived official text",
+      "data_gaps": [
+        "The original host-government page is not registered; the linked official summit text is accessed through the University of Toronto documentary archive."
+      ],
+      "is_us_host": false
+    },
+    {
+      "id": "1995-halifax",
+      "number": 21,
+      "year": 1995,
+      "name": "Halifax",
+      "summit_title": "Halifax Summit",
+      "format": "G7/G8 transition",
+      "status": "held",
+      "host_country": "Canada",
+      "city": "Halifax, Nova Scotia",
+      "location": "Halifax, Nova Scotia",
+      "venue": "World Trade and Convention Centre",
+      "dates": {
+        "start": "1995-06-15",
+        "end": "1995-06-17",
+        "display": "15–17 June 1995"
+      },
+      "era": "Post-Cold War transition",
+      "summary": "The leaders’ agenda centered on making job creation and structural reform urgent priorities; reform the IMF, World Bank, and crisis-prevention architecture after the Mexican peso crisis; and advancing a global information society.",
+      "context": "This post-cold war transition meeting paired making job creation and structural reform urgent priorities with reform the IMF, World Bank, and crisis-prevention architecture after the Mexican peso crisis.",
+      "themes": [
+        "Democracy and society",
+        "Development and global partnerships",
+        "Environment",
+        "Institutional governance",
+        "Macroeconomic coordination",
+        "Peace and security",
+        "Technology",
+        "Trade"
+      ],
+      "outcomes": [
+        "Make job creation and structural reform urgent priorities",
+        "Reform the IMF, World Bank, and crisis-prevention architecture after the Mexican peso crisis",
+        "Advance a global information society",
+        "Strengthen the World Trade Organization and open trade",
+        "Address debt, sustainable development, and conflict in the former Yugoslavia"
+      ],
+      "why_it_matters": "Tracks the G7 adaptation to the end of the Cold War, post-communist transitions, and Russia's gradual incorporation into summit diplomacy.",
+      "documents": [
+        {
+          "title": "Halifax Summit Communique",
+          "url": "https://www.g7.utoronto.ca/summit/1995halifax/communique/index.html",
+          "publisher": "G7 Research Group, University of Toronto",
+          "tier": 2,
+          "type": "leaders communique"
+        },
+        {
+          "title": "Review of the International Financial Institutions",
+          "url": "https://www.g7.utoronto.ca/summit/1995halifax/financial/index.html",
+          "publisher": "G7 Research Group, University of Toronto",
+          "tier": 2,
+          "type": "thematic statement"
+        }
+      ],
+      "record_status": "Reviewed · archived official text",
+      "data_gaps": [
+        "The original host-government page is not registered; the linked official summit text is accessed through the University of Toronto documentary archive."
+      ],
+      "is_us_host": false
+    },
+    {
+      "id": "1996-lyon",
+      "number": 22,
+      "year": 1996,
+      "name": "Lyon",
+      "summit_title": "Lyon Summit",
+      "format": "G7/G8 transition",
+      "status": "held",
+      "host_country": "France",
+      "city": "Lyon",
+      "location": "Lyon",
+      "venue": "Cite Internationale",
+      "dates": {
+        "start": "1996-06-27",
+        "end": "1996-06-29",
+        "display": "27–29 June 1996"
+      },
+      "era": "Post-Cold War transition",
+      "summary": "The leaders’ agenda centered on protecting growth and international monetary stability; creating a new development partnership with developing countries and multilateral institutions; and continuing reform of the IMF, World Bank, United Nations, and other international bodies.",
+      "context": "A separate G7-with-Russia Nuclear Safety and Security Summit met in Moscow on April 19-20, 1996; this record covers the regular annual summit at Lyon.",
+      "themes": [
+        "Development and global partnerships",
+        "Institutional governance",
+        "Macroeconomic coordination",
+        "Peace and security",
+        "Trade"
+      ],
+      "outcomes": [
+        "Protect growth and international monetary stability",
+        "Create a new development partnership with developing countries and multilateral institutions",
+        "Continue reform of the IMF, World Bank, United Nations, and other international bodies",
+        "Advance open trade and World Trade Organization implementation",
+        "Increase cooperation against terrorism",
+        "Support peace implementation in Bosnia and Herzegovina"
+      ],
+      "why_it_matters": "A separate G7-with-Russia Nuclear Safety and Security Summit met in Moscow on April 19-20, 1996; this record covers the regular annual summit at Lyon.",
+      "documents": [
+        {
+          "title": "Lyon Economic Communique",
+          "url": "https://www.g7.utoronto.ca/summit/1996lyon/communique.html",
+          "publisher": "G7 Research Group, University of Toronto",
+          "tier": 2,
+          "type": "leaders communique"
+        },
+        {
+          "title": "Declaration on Terrorism",
+          "url": "https://www.g7.utoronto.ca/summit/1996lyon/terrorism.html",
+          "publisher": "G7 Research Group, University of Toronto",
+          "tier": 2,
+          "type": "leaders declaration"
+        }
+      ],
+      "record_status": "Reviewed · archived official text",
+      "data_gaps": [
+        "The original host-government page is not registered; the linked official summit text is accessed through the University of Toronto documentary archive."
+      ],
+      "is_us_host": false
+    },
+    {
+      "id": "1997-denver",
+      "number": 23,
+      "year": 1997,
+      "name": "Denver",
+      "summit_title": "Denver Summit of the Eight",
+      "format": "G7/G8 transition",
+      "status": "held",
+      "host_country": "United States",
+      "city": "Denver, Colorado",
+      "location": "Denver, Colorado",
+      "venue": null,
+      "dates": {
+        "start": "1997-06-20",
+        "end": "1997-06-22",
+        "display": "20–22 June 1997"
+      },
+      "era": "Post-Cold War transition",
+      "summary": "The leaders’ agenda centered on sustaining growth and employment while integrating Russia into summit governance; responding to population aging and supporting small and medium-sized enterprises; and promoting sustainable development and stronger environmental institutions.",
+      "context": "Russia joined the leaders' political deliberations as the 'Summit of the Eight,' but some economic and financial work continued in a G7 format.",
+      "themes": [
+        "Democracy and society",
+        "Development and global partnerships",
+        "Environment",
+        "Global health",
+        "Institutional governance",
+        "Macroeconomic coordination",
+        "Peace and security",
+        "Technology"
+      ],
+      "outcomes": [
+        "Sustain growth and employment while integrating Russia into summit governance",
+        "Respond to population aging and support small and medium-sized enterprises",
+        "Promote sustainable development and stronger environmental institutions",
+        "Establish an Africa-focused development strategy",
+        "Advance United Nations reform, democracy, human rights, and arms control",
+        "Expand cooperation on the information society and transnational health threats"
+      ],
+      "why_it_matters": "Russia joined the leaders' political deliberations as the 'Summit of the Eight,' but some economic and financial work continued in a G7 format.",
+      "documents": [
+        {
+          "title": "Denver Summit of the Eight Communique",
+          "url": "https://www.g7.utoronto.ca/summit/1997denver/g8final.htm",
+          "publisher": "G7 Research Group, University of Toronto",
+          "tier": 2,
+          "type": "leaders communique"
+        }
+      ],
+      "record_status": "Reviewed · archived official text",
+      "data_gaps": [
+        "A precise leaders’ meeting venue is not registered in this release.",
+        "The original host-government page is not registered; the linked official summit text is accessed through the University of Toronto documentary archive."
+      ],
+      "is_us_host": true
+    },
+    {
+      "id": "1998-birmingham",
+      "number": 24,
+      "year": 1998,
+      "name": "Birmingham",
+      "summit_title": "Birmingham Summit",
+      "format": "G8",
+      "status": "held",
+      "host_country": "United Kingdom",
+      "city": "Birmingham",
+      "location": "Birmingham",
+      "venue": "International Convention Centre",
+      "dates": {
+        "start": "1998-05-15",
+        "end": "1998-05-17",
+        "display": "15–17 May 1998"
+      },
+      "era": "G8 period",
+      "summary": "The leaders’ agenda centered on responding to the Asian financial crisis and design a stronger international financial architecture; advancing debt relief for the poorest countries; and improving employability and social inclusion.",
+      "context": "Birmingham is generally treated as the first regular annual summit under the G8 name. A more informal leaders-only retreat became central to the format.",
+      "themes": [
+        "Democracy and society",
+        "Macroeconomic coordination",
+        "Peace and security"
+      ],
+      "outcomes": [
+        "Respond to the Asian financial crisis and design a stronger international financial architecture",
+        "Advance debt relief for the poorest countries",
+        "Improve employability and social inclusion",
+        "Combat drugs, organized crime, and other transnational threats",
+        "Condemn Indian and Pakistani nuclear tests and address crises including Kosovo and Indonesia"
+      ],
+      "why_it_matters": "Birmingham is generally treated as the first regular annual summit under the G8 name. A more informal leaders-only retreat became central to the format.",
+      "documents": [
+        {
+          "title": "Birmingham Summit Communique",
+          "url": "https://www.g7.utoronto.ca/summit/1998birmingham/finalcom.htm",
+          "publisher": "G7 Research Group, University of Toronto",
+          "tier": 2,
+          "type": "leaders communique"
+        },
+        {
+          "title": "Political Statement on Regional Issues",
+          "url": "https://www.g7.utoronto.ca/summit/1998birmingham/regional.htm",
+          "publisher": "G7 Research Group, University of Toronto",
+          "tier": 2,
+          "type": "thematic statement"
+        }
+      ],
+      "record_status": "Reviewed · archived official text",
+      "data_gaps": [
+        "The original host-government page is not registered; the linked official summit text is accessed through the University of Toronto documentary archive."
+      ],
+      "is_us_host": false
+    },
+    {
+      "id": "1999-cologne",
+      "number": 25,
+      "year": 1999,
+      "name": "Cologne",
+      "summit_title": "Cologne Summit",
+      "format": "G8",
+      "status": "held",
+      "host_country": "Germany",
+      "city": "Cologne",
+      "location": "Cologne",
+      "venue": null,
+      "dates": {
+        "start": "1999-06-18",
+        "end": "1999-06-20",
+        "display": "18–20 June 1999"
+      },
+      "era": "G8 period",
+      "summary": "The leaders’ agenda centered on stabilize the world economy after the Asian and Russian financial crises; launching faster, deeper, and broader debt relief through the Cologne Debt Initiative; and promoting jobs, lifelong learning, and social safeguards in a globalizing economy.",
+      "context": "The enhanced HIPC framework agreed at Cologne linked debt relief more explicitly to poverty reduction, health, education, and social spending.",
+      "themes": [
+        "Democracy and society",
+        "Macroeconomic coordination",
+        "Peace and security"
+      ],
+      "outcomes": [
+        "Stabilize the world economy after the Asian and Russian financial crises",
+        "Launch faster, deeper, and broader debt relief through the Cologne Debt Initiative",
+        "Promote jobs, lifelong learning, and social safeguards in a globalizing economy",
+        "Strengthen the international financial architecture",
+        "Support peace implementation, refugee return, and reconstruction in Kosovo and Southeast Europe"
+      ],
+      "why_it_matters": "The enhanced HIPC framework agreed at Cologne linked debt relief more explicitly to poverty reduction, health, education, and social spending.",
+      "documents": [
+        {
+          "title": "G8 Communique Cologne 1999",
+          "url": "https://www.g7.utoronto.ca/summit/1999koln/finalcom.htm",
+          "publisher": "G7 Research Group, University of Toronto",
+          "tier": 2,
+          "type": "leaders communique"
+        },
+        {
+          "title": "G8 Statement on Regional Issues",
+          "url": "https://www.g7.utoronto.ca/summit/1999koln/regional.htm",
+          "publisher": "G7 Research Group, University of Toronto",
+          "tier": 2,
+          "type": "thematic statement"
+        }
+      ],
+      "record_status": "Reviewed · archived official text",
+      "data_gaps": [
+        "A precise leaders’ meeting venue is not registered in this release.",
+        "The original host-government page is not registered; the linked official summit text is accessed through the University of Toronto documentary archive."
+      ],
+      "is_us_host": false
+    },
+    {
+      "id": "2000-okinawa",
+      "number": 26,
+      "year": 2000,
+      "name": "Okinawa",
+      "summit_title": "Okinawa Summit",
+      "format": "G8",
+      "status": "held",
+      "host_country": "Japan",
+      "city": "Nago, Okinawa",
+      "location": "Nago, Okinawa",
+      "venue": "Bankoku Shinryokan",
+      "dates": {
+        "start": "2000-07-21",
+        "end": "2000-07-23",
+        "display": "21–23 July 2000"
+      },
+      "era": "G8 period",
+      "summary": "The leaders’ agenda centered on promoting stronger and more inclusive global growth and open trade; adopting the Okinawa Charter on the Global Information Society and narrow the digital divide; and implementing enhanced HIPC debt relief and poverty-reduction strategies.",
+      "context": "This g8 period meeting paired promoting stronger and more inclusive global growth and open trade with adopting the Okinawa Charter on the Global Information Society and narrow the digital divide.",
+      "themes": [
+        "Democracy and society",
+        "Development and global partnerships",
+        "Global health",
+        "Macroeconomic coordination",
+        "Peace and security",
+        "Technology",
+        "Trade"
+      ],
+      "outcomes": [
+        "Promote stronger and more inclusive global growth and open trade",
+        "Adopt the Okinawa Charter on the Global Information Society and narrow the digital divide",
+        "Implement enhanced HIPC debt relief and poverty-reduction strategies",
+        "Scale up action against HIV/AIDS, tuberculosis, malaria, and other infectious diseases",
+        "Strengthen conflict prevention and address security on the Korean Peninsula"
+      ],
+      "why_it_matters": "Captures the G8 era's broad global-governance agenda and the opportunities and limits of Russia's participation.",
+      "documents": [
+        {
+          "title": "G8 Communique Okinawa 2000",
+          "url": "https://www.g7.utoronto.ca/summit/2000okinawa/finalcom.htm",
+          "publisher": "G7 Research Group, University of Toronto",
+          "tier": 2,
+          "type": "leaders communique"
+        },
+        {
+          "title": "Okinawa Charter on Global Information Society",
+          "url": "https://www.g7.utoronto.ca/summit/2000okinawa/gis.htm",
+          "publisher": "G7 Research Group, University of Toronto",
+          "tier": 2,
+          "type": "thematic statement"
+        }
+      ],
+      "record_status": "Reviewed · archived official text",
+      "data_gaps": [
+        "The original host-government page is not registered; the linked official summit text is accessed through the University of Toronto documentary archive."
+      ],
+      "is_us_host": false
+    },
+    {
+      "id": "2001-genoa",
+      "number": 27,
+      "year": 2001,
+      "name": "Genoa",
+      "summit_title": "Genoa Summit",
+      "format": "G8",
+      "status": "held",
+      "host_country": "Italy",
+      "city": "Genoa",
+      "location": "Genoa",
+      "venue": "Palazzo Ducale",
+      "dates": {
+        "start": "2001-07-20",
+        "end": "2001-07-22",
+        "display": "20–22 July 2001"
+      },
+      "era": "G8 period",
+      "summary": "The leaders’ agenda centered on making globalization more inclusive while sustaining growth and financial stability; launching the Genoa Plan for Africa and advancing debt relief; and supporting creation of the Global Fund to fight AIDS, tuberculosis, and malaria.",
+      "context": "Large anti-globalization protests and the death of a protester shaped public memory of the summit and prompted later hosts to use more isolated venues.",
+      "themes": [
+        "Development and global partnerships",
+        "Environment",
+        "Global health",
+        "Macroeconomic coordination",
+        "Peace and security",
+        "Technology",
+        "Trade"
+      ],
+      "outcomes": [
+        "Make globalization more inclusive while sustaining growth and financial stability",
+        "Launch the Genoa Plan for Africa and advance debt relief",
+        "Support creation of the Global Fund to fight AIDS, tuberculosis, and malaria",
+        "Advance a new World Trade Organization round and food security",
+        "Expand digital opportunity and environmental cooperation"
+      ],
+      "why_it_matters": "Large anti-globalization protests and the death of a protester shaped public memory of the summit and prompted later hosts to use more isolated venues.",
+      "documents": [
+        {
+          "title": "Genoa Final Communique",
+          "url": "https://www.g7.utoronto.ca/summit/2001genoa/finalcommunique.html",
+          "publisher": "G7 Research Group, University of Toronto",
+          "tier": 2,
+          "type": "leaders communique"
+        },
+        {
+          "title": "Genoa Plan for Africa",
+          "url": "https://www.g7.utoronto.ca/summit/2001genoa/africa.html",
+          "publisher": "G7 Research Group, University of Toronto",
+          "tier": 2,
+          "type": "thematic statement"
+        }
+      ],
+      "record_status": "Reviewed · archived official text",
+      "data_gaps": [
+        "The original host-government page is not registered; the linked official summit text is accessed through the University of Toronto documentary archive."
+      ],
+      "is_us_host": false
+    },
+    {
+      "id": "2002-kananaskis",
+      "number": 28,
+      "year": 2002,
+      "name": "Kananaskis",
+      "summit_title": "Kananaskis Summit",
+      "format": "G8",
+      "status": "held",
+      "host_country": "Canada",
+      "city": "Kananaskis, Alberta",
+      "location": "Kananaskis, Alberta",
+      "venue": "Kananaskis Village",
+      "dates": {
+        "start": "2002-06-26",
+        "end": "2002-06-27",
+        "display": "26–27 June 2002"
+      },
+      "era": "G8 period",
+      "summary": "The leaders’ agenda centered on adopting the G8 Africa Action Plan in response to NEPAD; launching the Global Partnership Against the Spread of Weapons and Materials of Mass Destruction; and strengthening counterterrorism and transport security after the September 11 attacks.",
+      "context": "Leaders announced that Russia would host in 2006, completing its progression to a full hosting role in the G8.",
+      "themes": [
+        "Development and global partnerships",
+        "Macroeconomic coordination",
+        "Peace and security",
+        "Trade"
+      ],
+      "outcomes": [
+        "Adopt the G8 Africa Action Plan in response to NEPAD",
+        "Launch the Global Partnership Against the Spread of Weapons and Materials of Mass Destruction",
+        "Strengthen counterterrorism and transport security after the September 11 attacks",
+        "Deliver enhanced HIPC debt relief and support development",
+        "Protect recovery and advance trade liberalization"
+      ],
+      "why_it_matters": "Leaders announced that Russia would host in 2006, completing its progression to a full hosting role in the G8.",
+      "documents": [
+        {
+          "title": "Kananaskis Summit Chair's Summary",
+          "url": "https://www.g7.utoronto.ca/summit/2002kananaskis/summary.html",
+          "publisher": "G7 Research Group, University of Toronto",
+          "tier": 2,
+          "type": "chairs summary"
+        },
+        {
+          "title": "G8 Global Partnership Against the Spread of Weapons and Materials of Mass Destruction",
+          "url": "https://www.g7.utoronto.ca/summit/2002kananaskis/arms.html",
+          "publisher": "G7 Research Group, University of Toronto",
+          "tier": 2,
+          "type": "thematic statement"
+        }
+      ],
+      "record_status": "Reviewed · archived official text",
+      "data_gaps": [
+        "The original host-government page is not registered; the linked official summit text is accessed through the University of Toronto documentary archive."
+      ],
+      "is_us_host": false
+    },
+    {
+      "id": "2003-evian",
+      "number": 29,
+      "year": 2003,
+      "name": "Évian",
+      "summit_title": "Evian Summit",
+      "format": "G8",
+      "status": "held",
+      "host_country": "France",
+      "city": "Évian-les-Bains",
+      "location": "Évian-les-Bains",
+      "venue": "Hotel Royal",
+      "dates": {
+        "start": "2003-06-01",
+        "end": "2003-06-03",
+        "display": "1–3 June 2003"
+      },
+      "era": "G8 period",
+      "summary": "The leaders’ agenda centered on restoring confidence and global growth after economic slowdown and the Iraq rupture; advancing the Africa Action Plan, health, water, and famine prevention; and strengthening WMD nonproliferation and securing radioactive sources.",
+      "context": "The summit worked to restore practical cooperation after deep divisions over the U.S.-led invasion of Iraq.",
+      "themes": [
+        "Development and global partnerships",
+        "Environment",
+        "Global health",
+        "Institutional governance",
+        "Macroeconomic coordination",
+        "Peace and security",
+        "Technology"
+      ],
+      "outcomes": [
+        "Restore confidence and global growth after economic slowdown and the Iraq rupture",
+        "Advance the Africa Action Plan, health, water, and famine prevention",
+        "Strengthen WMD nonproliferation and secure radioactive sources",
+        "Build international capacity against terrorism and improve transport security",
+        "Fight corruption and increase transparency",
+        "Promote science, technology, and environmental sustainability"
+      ],
+      "why_it_matters": "The summit worked to restore practical cooperation after deep divisions over the U.S.-led invasion of Iraq.",
+      "documents": [
+        {
+          "title": "Evian Chair's Summary",
+          "url": "https://www.g7.utoronto.ca/summit/2003evian/communique_en.html",
+          "publisher": "G7 Research Group, University of Toronto",
+          "tier": 2,
+          "type": "chairs summary"
+        },
+        {
+          "title": "Non-proliferation of Weapons of Mass Destruction: A G8 Declaration",
+          "url": "https://www.g7.utoronto.ca/summit/2003evian/wmd_declaration_en.html",
+          "publisher": "G7 Research Group, University of Toronto",
+          "tier": 2,
+          "type": "leaders declaration"
+        }
+      ],
+      "record_status": "Reviewed · archived official text",
+      "data_gaps": [
+        "The original host-government page is not registered; the linked official summit text is accessed through the University of Toronto documentary archive."
+      ],
+      "is_us_host": false
+    },
+    {
+      "id": "2004-sea-island",
+      "number": 30,
+      "year": 2004,
+      "name": "Sea Island",
+      "summit_title": "Sea Island Summit",
+      "format": "G8",
+      "status": "held",
+      "host_country": "United States",
+      "city": "Sea Island, Georgia",
+      "location": "Sea Island, Georgia",
+      "venue": "Sea Island Resort",
+      "dates": {
+        "start": "2004-06-08",
+        "end": "2004-06-10",
+        "display": "8–10 June 2004"
+      },
+      "era": "G8 period",
+      "summary": "The leaders’ agenda centered on launching a partnership for reform with the Broader Middle East and North Africa; expanding peace-support operations and African peacekeeping capacity; and strengthening nonproliferation and the Global Partnership against WMD.",
+      "context": "This g8 period meeting paired launching a partnership for reform with the Broader Middle East and North Africa with expanding peace-support operations and African peacekeeping capacity.",
+      "themes": [
+        "Development and global partnerships",
+        "Global health",
+        "Institutional governance",
+        "Peace and security"
+      ],
+      "outcomes": [
+        "Launch a partnership for reform with the Broader Middle East and North Africa",
+        "Expand peace-support operations and African peacekeeping capacity",
+        "Strengthen nonproliferation and the Global Partnership against WMD",
+        "Improve transport security and counterterrorism cooperation",
+        "Support HIV-vaccine research, polio eradication, and development",
+        "Address Sudan, Gaza withdrawal, and wider regional security"
+      ],
+      "why_it_matters": "Captures the G8 era's broad global-governance agenda and the opportunities and limits of Russia's participation.",
+      "documents": [
+        {
+          "title": "Sea Island Chair's Summary",
+          "url": "https://www.g7.utoronto.ca/summit/2004seaisland/summary.html",
+          "publisher": "G7 Research Group, University of Toronto",
+          "tier": 2,
+          "type": "chairs summary"
+        },
+        {
+          "title": "Partnership for Progress and a Common Future with the Broader Middle East and North Africa",
+          "url": "https://www.g7.utoronto.ca/summit/2004seaisland/partnership.html",
+          "publisher": "G7 Research Group, University of Toronto",
+          "tier": 2,
+          "type": "thematic statement"
+        }
+      ],
+      "record_status": "Reviewed · archived official text",
+      "data_gaps": [
+        "The original host-government page is not registered; the linked official summit text is accessed through the University of Toronto documentary archive."
+      ],
+      "is_us_host": true
+    },
+    {
+      "id": "2005-gleneagles",
+      "number": 31,
+      "year": 2005,
+      "name": "Gleneagles",
+      "summit_title": "Gleneagles Summit",
+      "format": "G8",
+      "status": "held",
+      "host_country": "United Kingdom",
+      "city": "Gleneagles, Scotland",
+      "location": "Gleneagles, Scotland",
+      "venue": "Gleneagles Hotel",
+      "dates": {
+        "start": "2005-07-06",
+        "end": "2005-07-08",
+        "display": "6–8 July 2005"
+      },
+      "era": "G8 period",
+      "summary": "The leaders’ agenda centered on scaling up aid, debt relief, health, education, and peace capacity for Africa; creating a long-term dialogue and action plan on climate change, clean energy, and sustainable development; and supporting the Millennium Development Goals and more effective development assistance.",
+      "context": "The summit continued after the July 7 attacks in London, with leaders issuing a collective statement against terrorism.",
+      "themes": [
+        "Democracy and society",
+        "Development and global partnerships",
+        "Energy and resources",
+        "Environment",
+        "Global health",
+        "Macroeconomic coordination",
+        "Peace and security",
+        "Trade"
+      ],
+      "outcomes": [
+        "Scale up aid, debt relief, health, education, and peace capacity for Africa",
+        "Create a long-term dialogue and action plan on climate change, clean energy, and sustainable development",
+        "Support the Millennium Development Goals and more effective development assistance",
+        "Advance trade and global economic growth",
+        "Maintain solidarity after the July 7 terrorist bombings in London"
+      ],
+      "why_it_matters": "The summit continued after the July 7 attacks in London, with leaders issuing a collective statement against terrorism.",
+      "documents": [
+        {
+          "title": "Gleneagles Chair's Summary",
+          "url": "https://www.g7.utoronto.ca/summit/2005gleneagles/summary.html",
+          "publisher": "G7 Research Group, University of Toronto",
+          "tier": 2,
+          "type": "chairs summary"
+        },
+        {
+          "title": "Gleneagles Communique on Africa",
+          "url": "https://www.g7.utoronto.ca/summit/2005gleneagles/africa.html",
+          "publisher": "G7 Research Group, University of Toronto",
+          "tier": 2,
+          "type": "leaders communique"
+        },
+        {
+          "title": "Climate Change, Clean Energy and Sustainable Development",
+          "url": "https://www.g7.utoronto.ca/summit/2005gleneagles/climatechange.html",
+          "publisher": "G7 Research Group, University of Toronto",
+          "tier": 2,
+          "type": "thematic statement"
+        }
+      ],
+      "record_status": "Reviewed · archived official text",
+      "data_gaps": [
+        "The original host-government page is not registered; the linked official summit text is accessed through the University of Toronto documentary archive."
+      ],
+      "is_us_host": false
+    },
+    {
+      "id": "2006-st-petersburg",
+      "number": 32,
+      "year": 2006,
+      "name": "St. Petersburg",
+      "summit_title": "St. Petersburg Summit",
+      "format": "G8",
+      "status": "held",
+      "host_country": "Russia",
+      "city": "Strelna, Saint Petersburg",
+      "location": "Strelna, Saint Petersburg",
+      "venue": "Constantine Palace",
+      "dates": {
+        "start": "2006-07-15",
+        "end": "2006-07-17",
+        "display": "15–17 July 2006"
+      },
+      "era": "G8 period",
+      "summary": "The leaders’ agenda centered on promoting global energy security, market transparency, efficiency, and investment; fighting infectious diseases and strengthening health systems; and advancing education and innovation for the twenty-first century.",
+      "context": "Russia's presidency and hosting marked its fullest institutional participation in the G8.",
+      "themes": [
+        "Democracy and society",
+        "Energy and resources",
+        "Global health",
+        "Institutional governance",
+        "Peace and security",
+        "Technology"
+      ],
+      "outcomes": [
+        "Promote global energy security, market transparency, efficiency, and investment",
+        "Fight infectious diseases and strengthen health systems",
+        "Advance education and innovation for the twenty-first century",
+        "Combat high-level corruption and intellectual-property piracy",
+        "Address nonproliferation, terrorism, stabilization, and the Middle East crisis"
+      ],
+      "why_it_matters": "Russia's presidency and hosting marked its fullest institutional participation in the G8.",
+      "documents": [
+        {
+          "title": "St. Petersburg Chair's Summary",
+          "url": "https://www.g7.utoronto.ca/summit/2006stpetersburg/summary.html",
+          "publisher": "G7 Research Group, University of Toronto",
+          "tier": 2,
+          "type": "chairs summary"
+        },
+        {
+          "title": "Global Energy Security",
+          "url": "https://www.g7.utoronto.ca/summit/2006stpetersburg/energy.html",
+          "publisher": "G7 Research Group, University of Toronto",
+          "tier": 2,
+          "type": "thematic statement"
+        }
+      ],
+      "record_status": "Reviewed · archived official text",
+      "data_gaps": [
+        "The original host-government page is not registered; the linked official summit text is accessed through the University of Toronto documentary archive."
+      ],
+      "is_us_host": false
+    },
+    {
+      "id": "2007-heiligendamm",
+      "number": 33,
+      "year": 2007,
+      "name": "Heiligendamm",
+      "summit_title": "Heiligendamm Summit",
+      "format": "G8",
+      "status": "held",
+      "host_country": "Germany",
+      "city": "Heiligendamm",
+      "location": "Heiligendamm",
+      "venue": "Grand Hotel Heiligendamm",
+      "dates": {
+        "start": "2007-06-06",
+        "end": "2007-06-08",
+        "display": "6–8 June 2007"
+      },
+      "era": "G8 period",
+      "summary": "The leaders’ agenda centered on promoting global growth through open investment, financial-market transparency, and intellectual-property protection; seeking a post-2012 climate framework and consider halving global emissions by 2050; and launching the Heiligendamm Process of structured dialogue with major emerging economies.",
+      "context": "This g8 period meeting paired promoting global growth through open investment, financial-market transparency, and intellectual-property protection with seeking a post-2012 climate framework and consider halving global emissions by 2050.",
+      "themes": [
+        "Development and global partnerships",
+        "Environment",
+        "Global health",
+        "Institutional governance",
+        "Macroeconomic coordination",
+        "Peace and security"
+      ],
+      "outcomes": [
+        "Promote global growth through open investment, financial-market transparency, and intellectual-property protection",
+        "Seek a post-2012 climate framework and consider halving global emissions by 2050",
+        "Launch the Heiligendamm Process of structured dialogue with major emerging economies",
+        "Strengthen partnerships with Africa on growth, health, and governance",
+        "Coordinate on nonproliferation, counterterrorism, and regional crises"
+      ],
+      "why_it_matters": "Captures the G8 era's broad global-governance agenda and the opportunities and limits of Russia's participation.",
+      "documents": [
+        {
+          "title": "Growth and Responsibility in the World Economy",
+          "url": "https://www.g7.utoronto.ca/summit/2007heiligendamm/g8-2007-economy.html",
+          "publisher": "G7 Research Group, University of Toronto",
+          "tier": 2,
+          "type": "thematic statement"
+        },
+        {
+          "title": "Heiligendamm Summit Chair's Summary",
+          "url": "https://www.g7.utoronto.ca/summit/2007heiligendamm/g8-2007-summary.html",
+          "publisher": "G7 Research Group, University of Toronto",
+          "tier": 2,
+          "type": "chairs summary"
+        }
+      ],
+      "record_status": "Reviewed · archived official text",
+      "data_gaps": [
+        "The original host-government page is not registered; the linked official summit text is accessed through the University of Toronto documentary archive."
+      ],
+      "is_us_host": false
+    },
+    {
+      "id": "2008-hokkaido-toyako",
+      "number": 34,
+      "year": 2008,
+      "name": "Hokkaido Toyako",
+      "summit_title": "Hokkaido Toyako Summit",
+      "format": "G8",
+      "status": "held",
+      "host_country": "Japan",
+      "city": "Lake Toya, Hokkaido",
+      "location": "Lake Toya, Hokkaido",
+      "venue": "The Windsor Hotel Toya Resort and Spa",
+      "dates": {
+        "start": "2008-07-07",
+        "end": "2008-07-09",
+        "display": "7–9 July 2008"
+      },
+      "era": "G8 period",
+      "summary": "The leaders’ agenda centered on responding to weakening growth, financial strains, and high oil and commodity prices; endorsing a long-term goal of at least halving global greenhouse-gas emissions by 2050 for UN negotiation; and coordinating action on the global food-price and food-security crisis.",
+      "context": "The summit preceded the most acute phase of the global financial crisis later in 2008.",
+      "themes": [
+        "Development and global partnerships",
+        "Energy and resources",
+        "Environment",
+        "Global health",
+        "Institutional governance",
+        "Macroeconomic coordination",
+        "Peace and security"
+      ],
+      "outcomes": [
+        "Respond to weakening growth, financial strains, and high oil and commodity prices",
+        "Endorse a long-term goal of at least halving global greenhouse-gas emissions by 2050 for UN negotiation",
+        "Coordinate action on the global food-price and food-security crisis",
+        "Accelerate progress on Africa, health, and the Millennium Development Goals",
+        "Address Zimbabwe, Iran, North Korea, terrorism, and regional security"
+      ],
+      "why_it_matters": "The summit preceded the most acute phase of the global financial crisis later in 2008.",
+      "documents": [
+        {
+          "title": "G8 Hokkaido Toyako Summit Leaders Declaration",
+          "url": "https://www.g7.utoronto.ca/summit/2008hokkaido/2008-declaration.html",
+          "publisher": "G7 Research Group, University of Toronto",
+          "tier": 2,
+          "type": "leaders declaration"
+        },
+        {
+          "title": "G8 Leaders Statement on Global Food Security",
+          "url": "https://www.g7.utoronto.ca/summit/2008hokkaido/2008-food.html",
+          "publisher": "G7 Research Group, University of Toronto",
+          "tier": 2,
+          "type": "thematic statement"
+        }
+      ],
+      "record_status": "Reviewed · archived official text",
+      "data_gaps": [
+        "The original host-government page is not registered; the linked official summit text is accessed through the University of Toronto documentary archive."
+      ],
+      "is_us_host": false
+    },
+    {
+      "id": "2009-laquila",
+      "number": 35,
+      "year": 2009,
+      "name": "L'Aquila",
+      "summit_title": "L'Aquila Summit",
+      "format": "G8",
+      "status": "held",
+      "host_country": "Italy",
+      "city": "L'Aquila",
+      "location": "L'Aquila",
+      "venue": "Guardia di Finanza school, Coppito",
+      "dates": {
+        "start": "2009-07-08",
+        "end": "2009-07-10",
+        "display": "8–10 July 2009"
+      },
+      "era": "G8 period",
+      "summary": "The leaders’ agenda centered on coordinating recovery from the global financial and economic crisis; strengthening financial regulation and resisting protectionism; and launching the L'Aquila Food Security Initiative with major new financing pledges.",
+      "context": "The summit was moved from La Maddalena, Sardinia, to L'Aquila after the April 2009 earthquake. The G20 was increasingly central to global macroeconomic crisis management.",
+      "themes": [
+        "Development and global partnerships",
+        "Environment",
+        "Global health",
+        "Institutional governance",
+        "Macroeconomic coordination",
+        "Peace and security",
+        "Trade"
+      ],
+      "outcomes": [
+        "Coordinate recovery from the global financial and economic crisis",
+        "Strengthen financial regulation and resist protectionism",
+        "Launch the L'Aquila Food Security Initiative with major new financing pledges",
+        "Recognize the scientific case for limiting warming to two degrees Celsius",
+        "Advance development, Africa, health, and accountability",
+        "Coordinate on nonproliferation and regional crises"
+      ],
+      "why_it_matters": "The summit was moved from La Maddalena, Sardinia, to L'Aquila after the April 2009 earthquake. The G20 was increasingly central to global macroeconomic crisis management.",
+      "documents": [
+        {
+          "title": "Responsible Leadership for a Sustainable Future",
+          "url": "https://www.g7.utoronto.ca/summit/2009laquila/2009-declaration.html",
+          "publisher": "G7 Research Group, University of Toronto",
+          "tier": 2,
+          "type": "thematic statement"
+        },
+        {
+          "title": "L'Aquila Joint Statement on Global Food Security",
+          "url": "https://www.g7.utoronto.ca/summit/2009laquila/2009-food.html",
+          "publisher": "G7 Research Group, University of Toronto",
+          "tier": 2,
+          "type": "thematic statement"
+        }
+      ],
+      "record_status": "Reviewed · archived official text",
+      "data_gaps": [
+        "The original host-government page is not registered; the linked official summit text is accessed through the University of Toronto documentary archive."
+      ],
+      "is_us_host": false
+    },
+    {
+      "id": "2010-muskoka",
+      "number": 36,
+      "year": 2010,
+      "name": "Muskoka",
+      "summit_title": "Muskoka Summit",
+      "format": "G8",
+      "status": "held",
+      "host_country": "Canada",
+      "city": "Huntsville, Ontario",
+      "location": "Huntsville, Ontario",
+      "venue": "Deerhurst Resort",
+      "dates": {
+        "start": "2010-06-25",
+        "end": "2010-06-26",
+        "display": "25–26 June 2010"
+      },
+      "era": "G8 period",
+      "summary": "The leaders’ agenda centered on launching the Muskoka Initiative for maternal, newborn, and child health; improving development accountability and delivery on earlier commitments; and supporting African growth, food security, and peace and security.",
+      "context": "Canada hosted the G20 in Toronto immediately after Muskoka, illustrating the division of labor between the G8 and the broader G20 on global economic governance.",
+      "themes": [
+        "Development and global partnerships",
+        "Global health",
+        "Institutional governance",
+        "Macroeconomic coordination",
+        "Peace and security"
+      ],
+      "outcomes": [
+        "Launch the Muskoka Initiative for maternal, newborn, and child health",
+        "Improve development accountability and delivery on earlier commitments",
+        "Support African growth, food security, and peace and security",
+        "Coordinate on nuclear nonproliferation, terrorism, Iran, and North Korea",
+        "Address Haiti and other vulnerable states while handing macroeconomic coordination to the adjacent G20 summit"
+      ],
+      "why_it_matters": "Canada hosted the G20 in Toronto immediately after Muskoka, illustrating the division of labor between the G8 and the broader G20 on global economic governance.",
+      "documents": [
+        {
+          "title": "Muskoka Declaration: Recovery and New Beginnings",
+          "url": "https://www.g7.utoronto.ca/summit/2010muskoka/communique.html",
+          "publisher": "G7 Research Group, University of Toronto",
+          "tier": 2,
+          "type": "leaders declaration"
+        }
+      ],
+      "record_status": "Reviewed · archived official text",
+      "data_gaps": [
+        "The original host-government page is not registered; the linked official summit text is accessed through the University of Toronto documentary archive."
+      ],
+      "is_us_host": false
+    },
+    {
+      "id": "2011-deauville",
+      "number": 37,
+      "year": 2011,
+      "name": "Deauville",
+      "summit_title": "Deauville Summit",
+      "format": "G8",
+      "status": "held",
+      "host_country": "France",
+      "city": "Deauville",
+      "location": "Deauville",
+      "venue": "Deauville International Centre",
+      "dates": {
+        "start": "2011-05-26",
+        "end": "2011-05-27",
+        "display": "26–27 May 2011"
+      },
+      "era": "G8 period",
+      "summary": "The leaders’ agenda centered on supporting democratic transitions emerging from the Arab Spring; launching the Deauville Partnership with Arab Countries in Transition; and defending freedom, democracy, human rights, and an open internet.",
+      "context": "This g8 period meeting paired supporting democratic transitions emerging from the Arab Spring with launching the Deauville Partnership with Arab Countries in Transition.",
+      "themes": [
+        "Democracy and society",
+        "Development and global partnerships",
+        "Global health",
+        "Macroeconomic coordination",
+        "Peace and security"
+      ],
+      "outcomes": [
+        "Support democratic transitions emerging from the Arab Spring",
+        "Launch the Deauville Partnership with Arab Countries in Transition",
+        "Defend freedom, democracy, human rights, and an open internet",
+        "Strengthen nuclear safety after Fukushima and continue nonproliferation work",
+        "Promote global growth, Africa partnerships, health, and food security",
+        "Address Libya, Syria, and other regional conflicts"
+      ],
+      "why_it_matters": "Captures the G8 era's broad global-governance agenda and the opportunities and limits of Russia's participation.",
+      "documents": [
+        {
+          "title": "G8 Declaration: Renewed Commitment for Freedom and Democracy",
+          "url": "https://www.g7.utoronto.ca/summit/2011deauville/2011-declaration-en.html",
+          "publisher": "G7 Research Group, University of Toronto",
+          "tier": 2,
+          "type": "leaders declaration"
+        },
+        {
+          "title": "Declaration of the G8 on the Arab Spring",
+          "url": "https://www.g7.utoronto.ca/summit/2011deauville/2011-arabsprings-en.html",
+          "publisher": "G7 Research Group, University of Toronto",
+          "tier": 2,
+          "type": "leaders declaration"
+        }
+      ],
+      "record_status": "Reviewed · archived official text",
+      "data_gaps": [
+        "The original host-government page is not registered; the linked official summit text is accessed through the University of Toronto documentary archive."
+      ],
+      "is_us_host": false
+    },
+    {
+      "id": "2012-camp-david",
+      "number": 38,
+      "year": 2012,
+      "name": "Camp David",
+      "summit_title": "Camp David Summit",
+      "format": "G8",
+      "status": "held",
+      "host_country": "United States",
+      "city": "Camp David, Maryland",
+      "location": "Camp David, Maryland",
+      "venue": "Camp David",
+      "dates": {
+        "start": "2012-05-18",
+        "end": "2012-05-19",
+        "display": "18–19 May 2012"
+      },
+      "era": "G8 period",
+      "summary": "The leaders’ agenda centered on supporting global recovery while balancing growth and fiscal consolidation amid the euro-area crisis; launching the New Alliance for Food Security and Nutrition; and coordinating Afghanistan's security and economic transition.",
+      "context": "The summit was originally planned for Chicago on May 19-20 but was moved to Camp David and advanced by one day.",
+      "themes": [
+        "Development and global partnerships",
+        "Energy and resources",
+        "Environment",
+        "Institutional governance",
+        "Macroeconomic coordination",
+        "Peace and security",
+        "Trade"
+      ],
+      "outcomes": [
+        "Support global recovery while balancing growth and fiscal consolidation amid the euro-area crisis",
+        "Launch the New Alliance for Food Security and Nutrition",
+        "Coordinate Afghanistan's security and economic transition",
+        "Address Iran, Syria, North Korea, and nonproliferation",
+        "Promote energy security, cleaner energy, and action on short-lived climate pollutants",
+        "Continue the Deauville Partnership and trade cooperation"
+      ],
+      "why_it_matters": "The summit was originally planned for Chicago on May 19-20 but was moved to Camp David and advanced by one day.",
+      "documents": [
+        {
+          "title": "Camp David Declaration",
+          "url": "https://www.g7.utoronto.ca/summit/2012campdavid/g8-declaration.html",
+          "publisher": "G7 Research Group, University of Toronto",
+          "tier": 2,
+          "type": "leaders declaration"
+        },
+        {
+          "title": "Statement by G8 Leaders on the Global Economy",
+          "url": "https://www.g7.utoronto.ca/summit/2012campdavid/g8-economy.html",
+          "publisher": "G7 Research Group, University of Toronto",
+          "tier": 2,
+          "type": "thematic statement"
+        }
+      ],
+      "record_status": "Reviewed · archived official text",
+      "data_gaps": [
+        "The original host-government page is not registered; the linked official summit text is accessed through the University of Toronto documentary archive."
+      ],
+      "is_us_host": true
+    },
+    {
+      "id": "2013-lough-erne",
+      "number": 39,
+      "year": 2013,
+      "name": "Lough Erne",
+      "summit_title": "Lough Erne Summit",
+      "format": "G8",
+      "status": "held",
+      "host_country": "United Kingdom",
+      "city": "Lough Erne, County Fermanagh, Northern Ireland",
+      "location": "Lough Erne, County Fermanagh, Northern Ireland",
+      "venue": "Lough Erne Resort",
+      "dates": {
+        "start": "2013-06-17",
+        "end": "2013-06-18",
+        "display": "17–18 June 2013"
+      },
+      "era": "G8 period",
+      "summary": "The leaders’ agenda centered on advancing the 'three Ts': trade, tax, and transparency; combating tax evasion and avoidance and improving beneficial-ownership transparency; and adopting an Open Data Charter and improving extractive-industry transparency.",
+      "context": "This was the last annual summit held under the G8 format before Russia's 2014 suspension.",
+      "themes": [
+        "Democracy and society",
+        "Development and global partnerships",
+        "Institutional governance",
+        "Macroeconomic coordination",
+        "Peace and security",
+        "Trade"
+      ],
+      "outcomes": [
+        "Advance the 'three Ts': trade, tax, and transparency",
+        "Combat tax evasion and avoidance and improve beneficial-ownership transparency",
+        "Adopt an Open Data Charter and improve extractive-industry transparency",
+        "Support global growth, jobs, and a transatlantic trade agreement",
+        "Address Syria and oppose terrorist kidnapping for ransom",
+        "Strengthen development, nutrition, and food security"
+      ],
+      "why_it_matters": "This was the last annual summit held under the G8 format before Russia's 2014 suspension.",
+      "documents": [
+        {
+          "title": "Lough Erne G8 Leaders Communique",
+          "url": "https://www.g7.utoronto.ca/summit/2013lougherne/lough-erne-communique.html",
+          "publisher": "G7 Research Group, University of Toronto",
+          "tier": 2,
+          "type": "leaders communique"
+        },
+        {
+          "title": "Lough Erne Declaration",
+          "url": "https://www.g7.utoronto.ca/summit/2013lougherne/lough-erne-declaration.html",
+          "publisher": "G7 Research Group, University of Toronto",
+          "tier": 2,
+          "type": "leaders declaration"
+        }
+      ],
+      "record_status": "Reviewed · archived official text",
+      "data_gaps": [
+        "The original host-government page is not registered; the linked official summit text is accessed through the University of Toronto documentary archive."
+      ],
+      "is_us_host": false
+    },
+    {
+      "id": "2014-brussels",
+      "number": 40,
+      "year": 2014,
+      "name": "Brussels",
+      "summit_title": "Brussels G7 Summit",
+      "format": "G7",
+      "status": "replacement",
+      "host_country": "European Union",
+      "host_country_historical": "Belgium (hosted by the European Union)",
+      "city": "Brussels",
+      "location": "Brussels",
+      "venue": "Justus Lipsius building",
+      "dates": {
+        "start": "2014-06-04",
+        "end": "2014-06-05",
+        "display": "4–5 June 2014"
+      },
+      "era": "Renewed G7",
+      "summary": "The leaders’ agenda centered on condemning Russia's violation of Ukraine's sovereignty and coordinating sanctions; supporting Ukraine's political transition, economy, and energy security; and strengthening global growth, trade, and financial stability.",
+      "context": "Russia's planned G8 summit at Sochi on the same dates was canceled after Russia's annexation of Crimea. The other members suspended participation in the G8 and met as the G7 in Brussels; the European Union hosted because the normal 2014 presidency would have been Russia's.",
+      "themes": [
+        "Development and global partnerships",
+        "Energy and resources",
+        "Environment",
+        "Institutional governance",
+        "Macroeconomic coordination",
+        "Peace and security",
+        "Trade"
+      ],
+      "outcomes": [
+        "Condemn Russia's violation of Ukraine's sovereignty and coordinate sanctions",
+        "Support Ukraine's political transition, economy, and energy security",
+        "Strengthen global growth, trade, and financial stability",
+        "Diversify energy supplies and reduce vulnerability to coercion",
+        "Advance climate action toward a 2015 global agreement",
+        "Coordinate on development, terrorism, and nonproliferation"
+      ],
+      "why_it_matters": "Russia's planned G8 summit at Sochi on the same dates was canceled after Russia's annexation of Crimea. The other members suspended participation in the G8 and met as the G7 in Brussels; the European Union hosted because the normal 2014 presidency would have been Russia's.",
+      "documents": [
+        {
+          "title": "The Brussels G7 Summit Declaration",
+          "url": "https://www.consilium.europa.eu/media/23853/143078.pdf",
+          "publisher": "Council of the European Union",
+          "tier": 1,
+          "type": "leaders declaration"
+        }
+      ],
+      "record_status": "Reviewed · official source linked",
+      "data_gaps": [],
+      "is_us_host": false
+    },
+    {
+      "id": "2015-elmau",
+      "number": 41,
+      "year": 2015,
+      "name": "Elmau",
+      "summit_title": "Elmau Summit",
+      "format": "G7",
+      "status": "held",
+      "host_country": "Germany",
+      "city": "Krün, Bavaria",
+      "location": "Krün, Bavaria",
+      "venue": "Schloss Elmau",
+      "dates": {
+        "start": "2015-06-07",
+        "end": "2015-06-08",
+        "display": "7–8 June 2015"
+      },
+      "era": "Renewed G7",
+      "summary": "The leaders’ agenda centered on maintaining sanctions and diplomatic pressure over Russia's actions in Ukraine; committing to decarbonization of the global economy over the course of the century; and promoting global growth, open trade, and responsible supply chains.",
+      "context": "This was the first regular annual summit after the return to the G7 format.",
+      "themes": [
+        "Democracy and society",
+        "Development and global partnerships",
+        "Energy and resources",
+        "Environment",
+        "Global health",
+        "Institutional governance",
+        "Macroeconomic coordination",
+        "Peace and security",
+        "Trade"
+      ],
+      "outcomes": [
+        "Maintain sanctions and diplomatic pressure over Russia's actions in Ukraine",
+        "Commit to decarbonization of the global economy over the course of the century",
+        "Promote global growth, open trade, and responsible supply chains",
+        "Strengthen preparedness after Ebola and act on antimicrobial resistance and neglected diseases",
+        "Advance the Sustainable Development Goals, food security, women's empowerment, and Africa partnerships",
+        "Coordinate against terrorism and violent extremism"
+      ],
+      "why_it_matters": "This was the first regular annual summit after the return to the G7 format.",
+      "documents": [
+        {
+          "title": "Leaders' Declaration G7 Summit, 7-8 June 2015",
+          "url": "https://www.g7.utoronto.ca/summit/2015elmau/2015-G7-declaration-en.html",
+          "publisher": "G7 Research Group, University of Toronto",
+          "tier": 2,
+          "type": "leaders declaration"
+        }
+      ],
+      "record_status": "Reviewed · archived official text",
+      "data_gaps": [
+        "The original host-government page is not registered; the linked official summit text is accessed through the University of Toronto documentary archive."
+      ],
+      "is_us_host": false
+    },
+    {
+      "id": "2016-ise-shima",
+      "number": 42,
+      "year": 2016,
+      "name": "Ise-Shima",
+      "summit_title": "Ise-Shima Summit",
+      "format": "G7",
+      "status": "held",
+      "host_country": "Japan",
+      "city": "Shima, Mie Prefecture",
+      "location": "Shima, Mie Prefecture",
+      "venue": "Shima Kanko Hotel, Kashiko Island",
+      "dates": {
+        "start": "2016-05-26",
+        "end": "2016-05-27",
+        "display": "26–27 May 2016"
+      },
+      "era": "Renewed G7",
+      "summary": "The leaders’ agenda centered on using monetary, fiscal, and structural policies to support global growth; promoting open trade and quality infrastructure investment; and adopting the Ise-Shima Vision for Global Health and acting on antimicrobial resistance.",
+      "context": "This renewed g7 meeting paired using monetary, fiscal, and structural policies to support global growth with promoting open trade and quality infrastructure investment.",
+      "themes": [
+        "Democracy and society",
+        "Development and global partnerships",
+        "Energy and resources",
+        "Global health",
+        "Macroeconomic coordination",
+        "Peace and security",
+        "Trade"
+      ],
+      "outcomes": [
+        "Use monetary, fiscal, and structural policies to support global growth",
+        "Promote open trade and quality infrastructure investment",
+        "Adopt the Ise-Shima Vision for Global Health and act on antimicrobial resistance",
+        "Implement the Paris Agreement and accelerate energy transition",
+        "Expand women's economic participation and capacity building",
+        "Counter terrorism and respond to refugees, migration, and regional security challenges"
+      ],
+      "why_it_matters": "Shows the democratic G7 regrouping after Russia's suspension and confronting trade, climate, technological, and geopolitical fractures.",
+      "documents": [
+        {
+          "title": "G7 Ise-Shima Leaders' Declaration",
+          "url": "https://www.mofa.go.jp/files/000160266.pdf",
+          "publisher": "Ministry of Foreign Affairs of Japan",
+          "tier": 1,
+          "type": "leaders declaration"
+        },
+        {
+          "title": "G7 Ise-Shima Summit Official Documents Page",
+          "url": "https://www.mofa.go.jp/ecm/ec/page24e_000148.html",
+          "publisher": "Ministry of Foreign Affairs of Japan",
+          "tier": 1,
+          "type": "official document index"
+        }
+      ],
+      "record_status": "Reviewed · official source linked",
+      "data_gaps": [],
+      "is_us_host": false
+    },
+    {
+      "id": "2017-taormina",
+      "number": 43,
+      "year": 2017,
+      "name": "Taormina",
+      "summit_title": "Taormina Summit",
+      "format": "G7",
+      "status": "held",
+      "host_country": "Italy",
+      "city": "Taormina, Sicily",
+      "location": "Taormina, Sicily",
+      "venue": "San Domenico Palace Hotel",
+      "dates": {
+        "start": "2017-05-26",
+        "end": "2017-05-27",
+        "display": "26–27 May 2017"
+      },
+      "era": "Renewed G7",
+      "summary": "The leaders’ agenda centered on adopting a focused action statement against terrorism and violent extremism; supporting global growth, jobs, innovation, and a rules-based trading system; and addressing migration and refugee flows while emphasizing border security.",
+      "context": "The communique transparently recorded that the United States was reviewing its climate policy and could not join the other members' climate consensus.",
+      "themes": [
+        "Democracy and society",
+        "Development and global partnerships",
+        "Environment",
+        "Institutional governance",
+        "Macroeconomic coordination",
+        "Peace and security",
+        "Technology"
+      ],
+      "outcomes": [
+        "Adopt a focused action statement against terrorism and violent extremism",
+        "Support global growth, jobs, innovation, and a rules-based trading system",
+        "Address migration and refugee flows while emphasizing border security",
+        "Deepen partnerships with Africa and improve food security and nutrition",
+        "Coordinate on North Korea, Syria, Libya, and Ukraine",
+        "Record a split on the Paris climate agreement pending a U.S. policy review"
+      ],
+      "why_it_matters": "The communique transparently recorded that the United States was reviewing its climate policy and could not join the other members' climate consensus.",
+      "documents": [
+        {
+          "title": "G7 Taormina Leaders' Communique",
+          "url": "https://www.g7.utoronto.ca/summit/2017taormina/communique.html",
+          "publisher": "G7 Research Group, University of Toronto",
+          "tier": 2,
+          "type": "leaders communique"
+        },
+        {
+          "title": "Statement on the Fight Against Terrorism and Violent Extremism",
+          "url": "https://www.g7.utoronto.ca/summit/2017taormina/statement-on-terrorism-and-extremism.html",
+          "publisher": "G7 Research Group, University of Toronto",
+          "tier": 2,
+          "type": "thematic statement"
+        }
+      ],
+      "record_status": "Reviewed · archived official text",
+      "data_gaps": [
+        "The original host-government page is not registered; the linked official summit text is accessed through the University of Toronto documentary archive."
+      ],
+      "is_us_host": false
+    },
+    {
+      "id": "2018-charlevoix",
+      "number": 44,
+      "year": 2018,
+      "name": "Charlevoix",
+      "summit_title": "Charlevoix Summit",
+      "format": "G7",
+      "status": "held",
+      "host_country": "Canada",
+      "city": "La Malbaie, Quebec",
+      "location": "La Malbaie, Quebec",
+      "venue": "Fairmont Le Manoir Richelieu",
+      "dates": {
+        "start": "2018-06-08",
+        "end": "2018-06-09",
+        "display": "8–9 June 2018"
+      },
+      "era": "Renewed G7",
+      "summary": "The leaders’ agenda centered on investing in inclusive growth, good jobs, skills, and fair taxation; advancing gender equality and quality education for girls and women; and adopting a human-centered vision for artificial intelligence and the future of work.",
+      "context": "The communique was released as a consensus text, but President Donald Trump withdrew U.S. endorsement after leaving the summit. The climate section separately recorded U.S. and other members' positions.",
+      "themes": [
+        "Democracy and society",
+        "Environment",
+        "Institutional governance",
+        "Macroeconomic coordination",
+        "Peace and security",
+        "Technology",
+        "Trade"
+      ],
+      "outcomes": [
+        "Invest in inclusive growth, good jobs, skills, and fair taxation",
+        "Advance gender equality and quality education for girls and women",
+        "Adopt a human-centered vision for artificial intelligence and the future of work",
+        "Protect oceans and coastal communities and reduce marine plastic waste",
+        "Defend democratic institutions against foreign interference",
+        "Manage divisions over trade and climate while coordinating on peace and security"
+      ],
+      "why_it_matters": "The communique was released as a consensus text, but President Donald Trump withdrew U.S. endorsement after leaving the summit. The climate section separately recorded U.S. and other members' positions.",
+      "documents": [
+        {
+          "title": "The Charlevoix G7 Summit Communique",
+          "url": "https://www.international.gc.ca/world-monde/international_relations-relations_internationales/g7/documents/2018-06-09-summit-communique-sommet.aspx?lang=eng",
+          "publisher": "Government of Canada",
+          "tier": 1,
+          "type": "leaders communique"
+        },
+        {
+          "title": "Charlevoix Declaration on Quality Education for Girls, Adolescent Girls and Women in Developing Countries",
+          "url": "https://www.international.gc.ca/world-monde/international_relations-relations_internationales/g7/documents/2018-06-09-quality-education-qualite.aspx?lang=eng",
+          "publisher": "Government of Canada",
+          "tier": 1,
+          "type": "leaders declaration"
+        }
+      ],
+      "record_status": "Reviewed · official source linked",
+      "data_gaps": [],
+      "is_us_host": false
+    },
+    {
+      "id": "2019-biarritz",
+      "number": 45,
+      "year": 2019,
+      "name": "Biarritz",
+      "summit_title": "Biarritz Summit",
+      "format": "G7",
+      "status": "held",
+      "host_country": "France",
+      "city": "Biarritz",
+      "location": "Biarritz",
+      "venue": null,
+      "dates": {
+        "start": "2019-08-24",
+        "end": "2019-08-26",
+        "display": "24–26 August 2019"
+      },
+      "era": "Renewed G7",
+      "summary": "The leaders’ agenda centered on supporting open and fair trade, World Trade Organization reform, and international tax modernization; seeking de-escalation with Iran and preventing an Iranian nuclear weapon; and coordinating on Ukraine, Libya, Hong Kong, and other regional crises.",
+      "context": "France deliberately avoided a conventional long omnibus communiqué. Leaders issued a one-page declaration, with chair's summaries and thematic documents covering other work.",
+      "themes": [
+        "Democracy and society",
+        "Development and global partnerships",
+        "Environment",
+        "Institutional governance",
+        "Macroeconomic coordination",
+        "Peace and security",
+        "Trade"
+      ],
+      "outcomes": [
+        "Support open and fair trade, World Trade Organization reform, and international tax modernization",
+        "Seek de-escalation with Iran and prevent an Iranian nuclear weapon",
+        "Coordinate on Ukraine, Libya, Hong Kong, and other regional crises",
+        "Fight inequality and advance gender equality",
+        "Deepen partnerships with Africa and the Sahel",
+        "Mobilize action on the Amazon fires, biodiversity, oceans, and climate"
+      ],
+      "why_it_matters": "France deliberately avoided a conventional long omnibus communiqué. Leaders issued a one-page declaration, with chair's summaries and thematic documents covering other work.",
+      "documents": [
+        {
+          "title": "G7 Leaders' Declaration",
+          "url": "https://www.elysee.fr/en/g7biarritz2019/2019/08/26/g7-leaders-declaration",
+          "publisher": "Presidency of the French Republic",
+          "tier": 1,
+          "type": "leaders declaration"
+        },
+        {
+          "title": "Biarritz Summit Official Documents",
+          "url": "https://www.elysee.fr/en/g7biarritz2019/2019/08/26/official-documents",
+          "publisher": "Presidency of the French Republic",
+          "tier": 1,
+          "type": "official document index"
+        }
+      ],
+      "record_status": "Reviewed · official source linked",
+      "data_gaps": [
+        "A precise leaders’ meeting venue is not registered in this release."
+      ],
+      "is_us_host": false
+    },
+    {
+      "id": "2020-united-states-virtual",
+      "number": 46,
+      "year": 2020,
+      "name": "United States Virtual",
+      "summit_title": "U.S.-hosted Virtual G7 Leaders' Meeting on COVID-19",
+      "format": "G7",
+      "status": "virtual",
+      "host_country": "United States",
+      "city": "Videoconference",
+      "location": "Videoconference",
+      "venue": null,
+      "dates": {
+        "start": "2020-03-16",
+        "end": "2020-03-16",
+        "display": "16 March 2020"
+      },
+      "era": "Crisis-era G7",
+      "summary": "The leaders’ agenda centered on coordinating public-health measures against COVID-19; accelerating research, data sharing, treatments, vaccines, and medical-equipment access; and using fiscal and monetary tools to protect jobs and stabilize the world economy.",
+      "context": "An in-person summit was announced for Camp David on June 10-12, changed to videoconference on March 19, and later postponed indefinitely; it was never held. The March 16 emergency videoconference is the substantive leaders' meeting used for this annual record. Additional G7 calls took place during the U.S. presidency.",
+      "themes": [
+        "Democracy and society",
+        "Global health",
+        "Institutional governance",
+        "Macroeconomic coordination",
+        "Technology",
+        "Trade"
+      ],
+      "outcomes": [
+        "Coordinate public-health measures against COVID-19",
+        "Accelerate research, data sharing, treatments, vaccines, and medical-equipment access",
+        "Use fiscal and monetary tools to protect jobs and stabilize the world economy",
+        "Keep trade and investment moving and address supply-chain disruption",
+        "Coordinate through international institutions and prepare a strong recovery"
+      ],
+      "why_it_matters": "Demonstrates both the value and the limits of emergency virtual summitry: leaders rapidly aligned health, research, fiscal, monetary, and trade responses, but the United States never convened the planned in-person annual summit.",
+      "documents": [
+        {
+          "title": "G7 Leaders' Statement, March 16, 2020",
+          "url": "https://trumpwhitehouse.archives.gov/briefings-statements/g7-leaders-statement/",
+          "publisher": "White House Historical Archive",
+          "tier": 1,
+          "type": "thematic statement"
+        }
+      ],
+      "record_status": "Reviewed · official source linked",
+      "data_gaps": [
+        "There was no single in-person annual summit; this record uses the March 16 emergency leaders’ videoconference and documents the cancelled Camp David plan."
+      ],
+      "is_us_host": true
+    },
+    {
+      "id": "2021-cornwall",
+      "number": 47,
+      "year": 2021,
+      "name": "Carbis Bay",
+      "summit_title": "Cornwall / Carbis Bay Summit",
+      "format": "G7",
+      "status": "held",
+      "host_country": "United Kingdom",
+      "city": "Carbis Bay, Cornwall",
+      "location": "Carbis Bay, Cornwall",
+      "venue": "Carbis Bay Hotel",
+      "dates": {
+        "start": "2021-06-11",
+        "end": "2021-06-13",
+        "display": "11–13 June 2021"
+      },
+      "era": "Crisis-era G7",
+      "summary": "The leaders’ agenda centered on ending the COVID-19 pandemic through vaccine sharing and stronger pandemic preparedness; building back better through green and digital recovery, jobs, and a global minimum tax; and launching a values-driven infrastructure partnership for developing countries.",
+      "context": "The first in-person annual summit since Biarritz in 2019, held with pandemic precautions.",
+      "themes": [
+        "Democracy and society",
+        "Development and global partnerships",
+        "Energy and resources",
+        "Environment",
+        "Global health",
+        "Institutional governance",
+        "Macroeconomic coordination",
+        "Peace and security",
+        "Technology"
+      ],
+      "outcomes": [
+        "End the COVID-19 pandemic through vaccine sharing and stronger pandemic preparedness",
+        "Build back better through green and digital recovery, jobs, and a global minimum tax",
+        "Launch a values-driven infrastructure partnership for developing countries",
+        "Accelerate net-zero, climate finance, biodiversity, and coal transition ahead of COP26",
+        "Defend open societies and coordinate on China, Russia, and regional security",
+        "Set targets and financing for girls' education"
+      ],
+      "why_it_matters": "The first in-person annual summit since Biarritz in 2019, held with pandemic precautions.",
+      "documents": [
+        {
+          "title": "Carbis Bay G7 Summit Communique",
+          "url": "https://www.gov.uk/government/publications/carbis-bay-g7-summit-communique/carbis-bay-g7-summit-communique",
+          "publisher": "UK Government",
+          "tier": 1,
+          "type": "leaders communique"
+        },
+        {
+          "title": "Carbis Bay Health Declaration",
+          "url": "https://www.g7.utoronto.ca/summit/2021cornwall/210613-carbis-bay-health-declaration.html",
+          "publisher": "G7 Research Group, University of Toronto",
+          "tier": 2,
+          "type": "leaders declaration"
+        }
+      ],
+      "record_status": "Reviewed · official source linked",
+      "data_gaps": [],
+      "is_us_host": false
+    },
+    {
+      "id": "2022-elmau",
+      "number": 48,
+      "year": 2022,
+      "name": "Elmau",
+      "summit_title": "Elmau Summit",
+      "format": "G7",
+      "status": "held",
+      "host_country": "Germany",
+      "city": "Krün, Bavaria",
+      "location": "Krün, Bavaria",
+      "venue": "Schloss Elmau",
+      "dates": {
+        "start": "2022-06-26",
+        "end": "2022-06-28",
+        "display": "26–28 June 2022"
+      },
+      "era": "Crisis-era G7",
+      "summary": "The leaders’ agenda centered on supporting Ukraine for as long as necessary and imposing costs on Russia; managing energy insecurity, price shocks, inflation, and supply-chain disruption; and addressing global food insecurity through the Global Alliance for Food Security.",
+      "context": "Germany also convened several extraordinary virtual and Brussels leaders' meetings on Ukraine during 2022; they are outside this annual-summit series.",
+      "themes": [
+        "Democracy and society",
+        "Development and global partnerships",
+        "Energy and resources",
+        "Environment",
+        "Macroeconomic coordination",
+        "Peace and security"
+      ],
+      "outcomes": [
+        "Support Ukraine for as long as necessary and impose costs on Russia",
+        "Manage energy insecurity, price shocks, inflation, and supply-chain disruption",
+        "Address global food insecurity through the Global Alliance for Food Security",
+        "Launch the Partnership for Global Infrastructure and Investment",
+        "Create a Climate Club and accelerate a clean and just transition",
+        "Strengthen democratic resilience and international partnerships"
+      ],
+      "why_it_matters": "Germany also convened several extraordinary virtual and Brussels leaders' meetings on Ukraine during 2022; they are outside this annual-summit series.",
+      "documents": [
+        {
+          "title": "G7 Leaders' Communique",
+          "url": "https://www.bundesregierung.de/resource/blob/974430/2062292/fbdb2c7e996205aee402386aae057c5e/2022-07-14-leaders-communique-data.pdf?download=1",
+          "publisher": "German Federal Government",
+          "tier": 1,
+          "type": "leaders communique"
+        },
+        {
+          "title": "G7 Leaders' Communique Executive Summary",
+          "url": "https://www.bundesregierung.de/resource/blob/974430/2057928/3b483140715059ebf8c4f7362044be1b/2022-06-28-leaders-communique-executive-summ-data.pdf?download=1",
+          "publisher": "German Federal Government",
+          "tier": 1,
+          "type": "leaders communique"
+        }
+      ],
+      "record_status": "Reviewed · official source linked",
+      "data_gaps": [],
+      "is_us_host": false
+    },
+    {
+      "id": "2023-hiroshima",
+      "number": 49,
+      "year": 2023,
+      "name": "Hiroshima",
+      "summit_title": "Hiroshima Summit",
+      "format": "G7",
+      "status": "held",
+      "host_country": "Japan",
+      "city": "Hiroshima",
+      "location": "Hiroshima",
+      "venue": "Grand Prince Hotel Hiroshima",
+      "dates": {
+        "start": "2023-05-19",
+        "end": "2023-05-21",
+        "display": "19–21 May 2023"
+      },
+      "era": "Crisis-era G7",
+      "summary": "The leaders’ agenda centered on deepening support for Ukraine and pressure on Russia; issuing the Hiroshima Vision on Nuclear Disarmament; and coordinating economic security, resilient supply chains, and 'de-risking, not decoupling' toward China.",
+      "context": "Ukrainian President Volodymyr Zelenskyy attended in person. Hiroshima's atomic-bomb history gave unusual prominence to nuclear disarmament and nonproliferation.",
+      "themes": [
+        "Development and global partnerships",
+        "Energy and resources",
+        "Environment",
+        "Global health",
+        "Institutional governance",
+        "Macroeconomic coordination",
+        "Peace and security",
+        "Technology"
+      ],
+      "outcomes": [
+        "Deepen support for Ukraine and pressure on Russia",
+        "Issue the Hiroshima Vision on Nuclear Disarmament",
+        "Coordinate economic security, resilient supply chains, and 'de-risking, not decoupling' toward China",
+        "Launch the Hiroshima AI Process for generative-AI governance",
+        "Accelerate clean-energy transition, food security, health, and Sustainable Development Goals",
+        "Mobilize infrastructure investment through PGII"
+      ],
+      "why_it_matters": "Ukrainian President Volodymyr Zelenskyy attended in person. Hiroshima's atomic-bomb history gave unusual prominence to nuclear disarmament and nonproliferation.",
+      "documents": [
+        {
+          "title": "G7 Hiroshima Leaders' Communique",
+          "url": "https://www.mofa.go.jp/policy/economy/summit/hiroshima23/documents/pdf/Leaders_Communique_01_en.pdf",
+          "publisher": "Ministry of Foreign Affairs of Japan",
+          "tier": 1,
+          "type": "leaders communique"
+        },
+        {
+          "title": "G7 Hiroshima Summit Official Documents",
+          "url": "https://www.mofa.go.jp/ms/g7hs_s/page1e_000666.html",
+          "publisher": "Ministry of Foreign Affairs of Japan",
+          "tier": 1,
+          "type": "official document index"
+        }
+      ],
+      "record_status": "Reviewed · official source linked",
+      "data_gaps": [],
+      "is_us_host": false
+    },
+    {
+      "id": "2024-apulia",
+      "number": 50,
+      "year": 2024,
+      "name": "Apulia",
+      "summit_title": "Apulia Summit",
+      "format": "G7",
+      "status": "held",
+      "host_country": "Italy",
+      "city": "Fasano, Apulia",
+      "location": "Fasano, Apulia",
+      "venue": "Borgo Egnazia",
+      "dates": {
+        "start": "2024-06-13",
+        "end": "2024-06-15",
+        "display": "13–15 June 2024"
+      },
+      "era": "Crisis-era G7",
+      "summary": "The leaders’ agenda centered on backing Ukraine and agreeing a roughly $50 billion ERA loan using future revenues from immobilized Russian sovereign assets; coordinating on Gaza, the Middle East, and broader regional security; and building equal partnerships with Africa through infrastructure, energy, and the Mattei Plan-PGII connection.",
+      "context": "Pope Francis addressed the outreach session on artificial intelligence, the first participation by a pope in a G7 leaders' summit.",
+      "themes": [
+        "Democracy and society",
+        "Development and global partnerships",
+        "Energy and resources",
+        "Environment",
+        "Institutional governance",
+        "Macroeconomic coordination",
+        "Peace and security",
+        "Technology"
+      ],
+      "outcomes": [
+        "Back Ukraine and agree a roughly $50 billion ERA loan using future revenues from immobilized Russian sovereign assets",
+        "Coordinate on Gaza, the Middle East, and broader regional security",
+        "Build equal partnerships with Africa through infrastructure, energy, and the Mattei Plan-PGII connection",
+        "Address migration and migrant smuggling",
+        "Advance safe, secure, and trustworthy artificial intelligence and its effects on work",
+        "Strengthen economic security, food security, climate, and energy transition"
+      ],
+      "why_it_matters": "Pope Francis addressed the outreach session on artificial intelligence, the first participation by a pope in a G7 leaders' summit.",
+      "documents": [
+        {
+          "title": "Apulia G7 Leaders' Communique",
+          "url": "https://www.g7italy.it/wp-content/uploads/Apulia-G7-Leaders-Communique.pdf",
+          "publisher": "Italian G7 Presidency",
+          "tier": 1,
+          "type": "leaders communique"
+        },
+        {
+          "title": "G7 Apulia Summit Documents Page",
+          "url": "https://www.g7italy.it/en/summit/",
+          "publisher": "Italian G7 Presidency",
+          "tier": 1,
+          "type": "official document index"
+        }
+      ],
+      "record_status": "Reviewed · official source linked",
+      "data_gaps": [],
+      "is_us_host": false
+    },
+    {
+      "id": "2025-kananaskis",
+      "number": 51,
+      "year": 2025,
+      "name": "Kananaskis",
+      "summit_title": "Kananaskis Summit",
+      "format": "G7",
+      "status": "held",
+      "host_country": "Canada",
+      "city": "Kananaskis, Alberta",
+      "location": "Kananaskis, Alberta",
+      "venue": null,
+      "dates": {
+        "start": "2025-06-15",
+        "end": "2025-06-17",
+        "display": "15–17 June 2025"
+      },
+      "era": "Crisis-era G7",
+      "summary": "The leaders’ agenda centered on launching a Critical Minerals Action Plan and strengthening energy and supply-chain security; promoting responsible AI adoption, quantum cooperation, and the digital transition; and supporting Ukraine and coordinating on Israel-Iran escalation and other geopolitical crises.",
+      "context": "Canada did not issue a conventional omnibus consensus communique. The public record consists of a chair's summary plus issue-specific statements and plans. The summit marked fifty years since Rambouillet.",
+      "themes": [
+        "Development and global partnerships",
+        "Energy and resources",
+        "Environment",
+        "Institutional governance",
+        "Macroeconomic coordination",
+        "Peace and security",
+        "Technology"
+      ],
+      "outcomes": [
+        "Launch a Critical Minerals Action Plan and strengthen energy and supply-chain security",
+        "Promote responsible AI adoption, quantum cooperation, and the digital transition",
+        "Support Ukraine and coordinate on Israel-Iran escalation and other geopolitical crises",
+        "Create a multilateral framework for wildfire prevention, response, and recovery",
+        "Counter transnational repression, migrant smuggling, and foreign interference",
+        "Mobilize investment and partnerships for shared prosperity"
+      ],
+      "why_it_matters": "Canada did not issue a conventional omnibus consensus communique. The public record consists of a chair's summary plus issue-specific statements and plans. The summit marked fifty years since Rambouillet.",
+      "documents": [
+        {
+          "title": "Kananaskis Chair's Summary",
+          "url": "https://g7.canada.ca/en/news-and-media/news/chairs-summary/",
+          "publisher": "Government of Canada",
+          "tier": 1,
+          "type": "chairs summary"
+        },
+        {
+          "title": "G7 Critical Minerals Action Plan",
+          "url": "https://g7.canada.ca/en/news-and-media/news/g7-critical-minerals-action-plan/",
+          "publisher": "Government of Canada",
+          "tier": 1,
+          "type": "thematic statement"
+        },
+        {
+          "title": "G7 Leaders' Statement on AI for Prosperity",
+          "url": "https://g7.canada.ca/en/news-and-media/news/g7-leaders-statement-on-ai-for-prosperity/",
+          "publisher": "Government of Canada",
+          "tier": 1,
+          "type": "thematic statement"
+        }
+      ],
+      "record_status": "Reviewed · official source linked",
+      "data_gaps": [
+        "A precise leaders’ meeting venue is not registered in this release."
+      ],
+      "is_us_host": false
+    },
+    {
+      "id": "2026-evian",
+      "number": 52,
+      "year": 2026,
+      "name": "Évian",
+      "summit_title": "Evian Summit",
+      "format": "G7",
+      "status": "held",
+      "host_country": "France",
+      "city": "Évian-les-Bains",
+      "location": "Évian-les-Bains",
+      "venue": null,
+      "dates": {
+        "start": "2026-06-15",
+        "end": "2026-06-17",
+        "display": "15–17 June 2026"
+      },
+      "era": "Crisis-era G7",
+      "summary": "The leaders’ agenda centered on coordinating on Ukraine, Russia, the Middle East, and Indo-Pacific security; pursuing more balanced, durable, and resilient growth by addressing global imbalances; and securing and diversifying critical-mineral supply chains through investment, transparency, stockpiling, and recycling.",
+      "context": "Verified after completion against the Élysée summit dossier and results pages on July 10, 2026. France reported nine leaders’ texts rather than one omnibus communiqué. The next rotating presidency is the United States in 2027.",
+      "themes": [
+        "Development and global partnerships",
+        "Energy and resources",
+        "Global health",
+        "Institutional governance",
+        "Macroeconomic coordination",
+        "Peace and security",
+        "Technology"
+      ],
+      "outcomes": [
+        "Coordinate on Ukraine, Russia, the Middle East, and Indo-Pacific security",
+        "Pursue more balanced, durable, and resilient growth by addressing global imbalances",
+        "Secure and diversify critical-mineral supply chains through investment, transparency, stockpiling, and recycling",
+        "Renew international partnerships and development finance around mutual benefit",
+        "Promote safe and effective AI deployment and a safer digital space for minors",
+        "Act jointly on migrant and drug trafficking, cancer research, and an Ebola outbreak"
+      ],
+      "why_it_matters": "The final summit before the 2027 U.S. presidency created a nine-text implementation record spanning security, global imbalances, critical minerals, AI and digital safety, partnerships, health, and transnational crime.",
+      "documents": [
+        {
+          "title": "Official Évian Summit Dossier",
+          "url": "https://www.elysee.fr/en/emmanuel-macron/2026-g7-summit-in-evian",
+          "publisher": "Élysée, Government of France",
+          "tier": 1,
+          "type": "Document collection"
+        },
+        {
+          "title": "G7 Leaders’ Declaration on Securing Critical Minerals Supply Chains",
+          "url": "https://www.elysee.fr/en/G7evian/2026/06/17/g7-leaders-declaration-on-securing-supply-chains-for-critical-minerals",
+          "publisher": "Élysée, Government of France",
+          "tier": 1,
+          "type": "Leaders’ declaration"
+        },
+        {
+          "title": "Leaders’ Statement for More Balanced, Durable and Resilient Growth",
+          "url": "https://www.elysee.fr/en/G7evian/2026/06/17/leaders-statement-for-a-more-balanced-durable-resilient-growth",
+          "publisher": "Élysée, Government of France",
+          "tier": 1,
+          "type": "Leaders’ statement"
+        },
+        {
+          "title": "G7 Leaders’ Statement on Geopolitical Issues",
+          "url": "https://www.elysee.fr/en/G7evian/2026/06/17/g7-leaders-statement-on-geopolitical-issues",
+          "publisher": "Élysée, Government of France",
+          "tier": 1,
+          "type": "Leaders’ statement"
+        },
+        {
+          "title": "Leaders’ Declaration on Mutually Beneficial International Partnerships",
+          "url": "https://www.elysee.fr/en/G7evian/2026/06/16/leaders-declaration-on-mutually-beneficial-international-partnerships",
+          "publisher": "Élysée, Government of France",
+          "tier": 1,
+          "type": "Leaders’ declaration"
+        },
+        {
+          "title": "Leaders’ Call on a Safer Digital Space for Minors",
+          "url": "https://www.elysee.fr/en/G7evian/2026/06/17/leaders-call-on-a-safer-digital-space-for-minors",
+          "publisher": "Élysée, Government of France",
+          "tier": 1,
+          "type": "Leaders’ call"
+        },
+        {
+          "title": "Leaders’ Call on the Fight Against Cancer",
+          "url": "https://www.elysee.fr/en/G7evian/2026/06/16/leaders-call-on-the-fight-against-cancer",
+          "publisher": "Élysée, Government of France",
+          "tier": 1,
+          "type": "Leaders’ call"
+        },
+        {
+          "title": "Leaders’ Call for a Coordinated Response to the Bundibugyo Ebola Outbreak",
+          "url": "https://www.elysee.fr/en/G7evian/2026/06/16/leaders-call-for-a-coordinated-response-to-the-bundibugyo-ebola-outbreak",
+          "publisher": "Élysée, Government of France",
+          "tier": 1,
+          "type": "Leaders’ call"
+        },
+        {
+          "title": "Leaders’ Declaration on Tackling Migrant Smuggling",
+          "url": "https://www.elysee.fr/en/G7evian/2026/06/17/leaders-declaration-on-tackling-migrant-smuggling",
+          "publisher": "Élysée, Government of France",
+          "tier": 1,
+          "type": "Leaders’ declaration"
+        },
+        {
+          "title": "Leaders’ Declaration on the Fight Against Drug Trafficking",
+          "url": "https://www.elysee.fr/en/G7evian/2026/06/17/leaders-declaration-on-the-fight-against-drug-trafficking",
+          "publisher": "Élysée, Government of France",
+          "tier": 1,
+          "type": "Leaders’ declaration"
+        }
+      ],
+      "record_status": "Reviewed · official source linked",
+      "data_gaps": [
+        "A precise leaders’ meeting venue is not registered in this release."
+      ],
+      "is_us_host": false
+    }
+  ]
+}
