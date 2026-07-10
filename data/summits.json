@@ -30,7 +30,7 @@
       "host_leader": "Valéry Giscard d’Estaing",
       "era": "Founding group",
       "summary": "The leaders’ agenda centered on coordinating recovery from recession, high unemployment, and inflation; improving monetary cooperation and responding to disorderly exchange-rate movements; and reducing vulnerability to energy shocks while conserving oil.",
-      "context": "The first summit and the only annual summit held as the G6: France, West Germany, Italy, Japan, the United Kingdom, and the United States.",
+      "context": "The first summit and the only annual summit held as the G6: France, West Germany, Italy, Japan, the United Kingdom, and the United States. Shultz’s memoir locates a crucial precursor in the 1973 Library Group, where four finance ministers developed the private, candid working method later associated with small-group economic coordination; Japan joined that circle later in 1973.",
       "themes": [
         "Democracy and society",
         "Development and global partnerships",
@@ -45,7 +45,13 @@
         "Reduce vulnerability to energy shocks while conserving oil",
         "Keep markets open and resist protectionism"
       ],
-      "why_it_matters": "The first summit and the only annual summit held as the G6: France, West Germany, Italy, Japan, the United Kingdom, and the United States.",
+      "why_it_matters": "Read as institutional lineage rather than a single founding act, Rambouillet’s small-group, candid format resembles a working method already visible in the 1973 finance-minister Library Group while establishing a separate six-government leaders’ forum.",
+      "institutional_origins": {
+        "source_type": "Retrospective participant memoir",
+        "synthesis": "Shultz later traced a crucial prehistory of the summit system to the March 1973 Library Group: a private circle of the U.S., French, West German, and British finance ministers formed amid monetary turmoil. Japan joined at Shultz’s urging later that year, creating the finance-minister Group of Five.",
+        "citation": "George P. Shultz, Turmoil and Triumph: My Years as Secretary of State (New York: Charles Scribner’s Sons, 1993), ch. 11, ‘Allies and Friends in Europe,’ sec. ‘Early Impressions from My Treasury Days,’ pp. 147–48; ch. 13, ‘Japan: Strategic Partner and Economic Power,’ sec. ‘Japan Joins the Club,’ p. 177.",
+        "source_note": "The memoir documents an institutional precursor and working method, not the first leaders’ summit. Its 1986 Group of Seven reference concerns enlargement of the finance-minister G5; Canada had already joined the separate leaders’ summit in 1976."
+      },
       "documents": [
         {
           "title": "Declaration of Rambouillet",
@@ -55,7 +61,7 @@
           "type": "leaders declaration"
         }
       ],
-      "record_status": "Reviewed · archived official text",
+      "record_status": "Reviewed · archived leaders’ text and participant memoir cited",
       "data_gaps": [
         "The original host-government page is not registered; the linked official summit text is accessed through the University of Toronto documentary archive."
       ],

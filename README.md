@@ -1,12 +1,13 @@
 # G7 Presidency History
 
-A source-backed history of the annual G6, G7, and G8 leaders’ meetings from 1975 through 2026, built to support policy preparation for the 2027 U.S. G7 presidency.
+A source-backed history of the annual G6, G7, and G8 leaders’ meetings from 1975 through 2026, with an annotated account of the 1973 finance-minister network that preceded them, built to support policy preparation for the 2027 U.S. G7 presidency.
 
 **Live site:** https://therealjameswilson.github.io/g7-presidency-history/
 
 ## What is included
 
 - all 52 calendar-year leaders’ records from Rambouillet (1975) through Évian (2026)
+- an annotated origins narrative using George P. Shultz’s memoir to trace the 1973 Library Group and finance-minister G5, while keeping that track distinct from the 1975–76 leaders’ sequence
 - the G6 origin, G7 sequence, G8 period, 2014 Brussels replacement for Sochi, and 2020 virtual/no-in-person-summit anomaly
 - search and filters for host, format, institutional era, and policy thread
 - side-by-side comparison of up to three summits
@@ -24,7 +25,7 @@ A source-backed history of the annual G6, G7, and G8 leaders’ meetings from 19
 1. Official presidency and government records
 2. Official archives and presidential libraries
 3. The University of Toronto G7 Research Group documentary archive when original historical URLs are missing or unstable
-4. Reputable institutional histories for context and cross-checking
+4. Participant memoirs and reputable institutional histories for context and cross-checking, with retrospective evidence labeled and page-cited
 
 Project summaries, tags, and comparison notes are orientation aids. The linked declaration, communiqué, chair’s summary, or official record controls.
 
@@ -60,6 +61,7 @@ The validator checks:
 ```text
 .
 ├── index.html                 # complete summit explorer
+├── origins.html               # annotated 1972–76 institutional origins
 ├── briefing.html              # 2027 U.S. presidency brief
 ├── sources.html               # methodology and source register
 ├── assets/

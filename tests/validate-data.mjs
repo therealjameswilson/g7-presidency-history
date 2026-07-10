@@ -50,7 +50,14 @@ assert.match(paris1989.summary, /Financial Action Task Force \(FATF\)/, "1989 su
 assert.ok(paris1989.outcomes.some((item) => /Create the Financial Action Task Force \(FATF\)/.test(item)), "1989 outcomes must include FATF's creation");
 assert.ok(paris1989.documents.some((item) => item.url === "https://www.fatf-gafi.org/en/the-fatf/history-of-the-fatf.html" && item.tier === 1), "1989 record must link FATF's official history");
 
-for (const htmlName of ["index.html", "briefing.html", "sources.html", "404.html"]) {
+const rambouillet1975 = summits.find((item) => item.year === 1975);
+assert.ok(rambouillet1975.institutional_origins, "1975 record must include the pre-summit institutional origins note");
+assert.match(rambouillet1975.institutional_origins.synthesis, /Library Group/, "1975 origins note must identify the Library Group");
+assert.match(rambouillet1975.institutional_origins.citation, /pp\. 147–48/, "1975 origins note must cite Shultz's printed pages 147–48");
+assert.match(rambouillet1975.institutional_origins.citation, /p\. 177/, "1975 origins note must cite Shultz's Japan passage on printed page 177");
+assert.match(rambouillet1975.institutional_origins.source_note, /finance-minister G5/, "1975 origins note must distinguish the finance-minister and leaders’ tracks");
+
+for (const htmlName of ["index.html", "origins.html", "briefing.html", "sources.html", "404.html"]) {
   const html = await readFile(join(root, htmlName), "utf8");
   const localRefs = [...html.matchAll(/(?:href|src)="([^"#?]+)(?:[?#][^"]*)?"/g)]
     .map((match) => match[1])

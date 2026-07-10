@@ -58,6 +58,7 @@ The [Council of the European Union meeting record](https://www.consilium.europa.
 
 ## Founding and transition documents
 
+- **Participant memoir for the pre-summit finance track:** George P. Shultz, *Turmoil and Triumph: My Years as Secretary of State* (New York: Charles Scribner’s Sons, 1993), ch. 11, “Allies and Friends in Europe,” sec. “Early Impressions from My Treasury Days,” pp. 147–48; ch. 13, “Japan: Strategic Partner and Economic Power,” sec. “Japan Joins the Club,” p. 177. The first passage covers monetary disorder, the 25 March 1973 White House Library meeting, and the finance-minister Group of Five; the second independently identifies Kiichi Aichi’s entry before the September 1973 Nairobi meetings. In the supplied scan, PDF pp. 29–30 correspond to printed pp. 147–48, and PDF p. 59 corresponds to printed p. 177. The scan is not redistributed.
 - [1975 Declaration of Rambouillet](https://www.g7.utoronto.ca/summit/1975rambouillet/communique.html)
 - [1976 San Juan Joint Declaration](https://www.g7.utoronto.ca/summit/1976sanjuan/communique.html)
 - [1989 Paris Economic Declaration](https://www.g7.utoronto.ca/summit/1989paris/communique/index.html) and [FATF’s official institutional history](https://www.fatf-gafi.org/en/the-fatf/history-of-the-fatf.html) — the summit created the Financial Action Task Force to examine money laundering and develop coordinated measures.
@@ -74,6 +75,7 @@ The more specific agenda formulations appear under `outcomes`. Theme assignment 
 
 ## Edge cases
 
+- **Library Group, finance G5, and leaders’ G7:** The March 1973 Library Group and the finance-minister G5 were institutional precursors, not leaders’ summits. Shultz’s p. 148 n. 1 places Canada and Italy’s entry into the finance-minister group in 1986. The separate leaders’ sequence began with six governments at Rambouillet in 1975; Canada joined that forum at Dorado Beach in 1976.
 - **G6/G7/G8:** 1975 is G6. Canada joined in 1976. Russia’s participation expanded progressively; Birmingham 1998 begins the regular G8-labeled annual series used here. Some financial work continued as G7 during the G8 era.
 - **2014:** Russia was due to host at Sochi. After the annexation of Crimea, the other seven suspended G8 participation and the European Union hosted a G7 meeting in Brussels.
 - **2018:** The Charlevoix communiqué was released as a consensus text, but President Trump withdrew U.S. endorsement after leaving. The record names the complication.

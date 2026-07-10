@@ -382,6 +382,58 @@ button:focus-visible, a:focus-visible, input:focus-visible, select:focus-visible
 .source-register a { font-size: 12px; font-weight: 800; }
 blockquote { margin: 24px 0; padding: 22px 25px; background: var(--surface); border-left: 4px solid var(--gold-500); color: var(--muted); }
 
+/* Institutional origins */
+.origins-hero { background: radial-gradient(circle at 78% 28%, rgba(193,139,53,.16), transparent 28%), linear-gradient(110deg, var(--navy-950), var(--navy-800)); }
+.origins-shell { grid-template-columns: 220px minmax(0, 860px); }
+.origin-principle { background: linear-gradient(115deg, var(--gold-100), var(--paper-strong)); }
+.origin-timeline { position: relative; margin-top: 34px; }
+.origin-timeline::before { content: ""; position: absolute; top: 18px; bottom: 22px; left: 139px; width: 2px; background: var(--line-strong); }
+.origin-step { position: relative; display: grid; grid-template-columns: 112px minmax(0, 1fr); gap: 56px; padding: 0 0 34px; }
+.origin-step::before { content: ""; position: absolute; z-index: 2; top: 9px; left: 132px; width: 12px; height: 12px; border: 3px solid var(--paper); border-radius: 50%; background: var(--teal-700); box-shadow: 0 0 0 2px var(--teal-700); }
+.origin-step-key::before { background: var(--gold-500); box-shadow: 0 0 0 3px var(--gold-600); }
+.origin-date { padding-top: 2px; text-align: right; }
+.origin-date strong, .origin-date span { display: block; }
+.origin-date strong { font-family: Georgia, serif; font-size: 1.08rem; line-height: 1.18; }
+.origin-date span { margin-top: 5px; color: var(--muted); font-size: 9px; font-weight: 800; line-height: 1.3; text-transform: uppercase; letter-spacing: .055em; }
+.origin-step h3 { margin: 8px 0 7px; }
+.origin-step p { margin-bottom: 0; }
+.cite-ref { display: inline-grid; place-items: center; min-width: 17px; height: 17px; margin-left: 2px; border-radius: 50%; background: var(--gold-100); color: var(--gold-600); font: 850 10px/1 Inter, sans-serif; text-decoration: none; vertical-align: super; }
+.cite-ref:hover { background: var(--gold-500); color: var(--navy-950); }
+.origin-insights { display: grid; grid-template-columns: repeat(3, 1fr); gap: 11px; margin: 28px 0; }
+.origin-insights article { padding: 21px; background: var(--surface); border: 1px solid var(--line); border-top: 4px solid var(--teal-700); }
+.origin-insights span, .track-label, .evidence-ledger article > div > span, .interpretive-note > span { color: var(--teal-700); font-size: 9px; font-weight: 850; text-transform: uppercase; letter-spacing: .065em; }
+.origin-insights h3 { margin: 10px 0 8px; font-size: 1.15rem; }
+.origin-insights p { margin-bottom: 0; font-size: 12px; }
+.evidence-ledger { margin: 28px 0 12px; border: 1px solid var(--line); background: var(--surface); }
+.evidence-ledger article { display: grid; grid-template-columns: minmax(0, 1fr) auto; align-items: center; gap: 24px; padding: 22px; }
+.evidence-ledger article + article { border-top: 1px solid var(--line); }
+.evidence-ledger h3 { margin: 7px 0 5px; }
+.evidence-ledger p { margin: 0; font-size: 12px; }
+.evidence-ledger .button { white-space: nowrap; }
+.evidence-caption { color: var(--muted); font-size: 11px; }
+.track-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 13px; margin: 28px 0; }
+.track-grid > article { padding: 24px; background: var(--surface); border: 1px solid var(--line); border-top: 5px solid var(--gold-500); }
+.track-grid > article:first-child { border-top-color: var(--teal-700); }
+.track-grid h3 { margin: 9px 0 18px; }
+.track-grid dl { margin: 0; }
+.track-grid dl div { padding: 12px 0; border-top: 1px solid var(--line); }
+.track-grid dt { color: var(--ink); font-size: 11px; font-weight: 850; }
+.track-grid dd { margin: 3px 0 0; color: var(--muted); font-size: 12px; }
+.interpretive-note { margin-top: 28px; padding: 24px; background: var(--navy-900); color: #fff; border-left: 5px solid var(--gold-500); }
+.interpretive-note > span { color: var(--gold-300); }
+.interpretive-note p { margin: 8px 0 0; color: #d5e1e4; }
+.source-notes ol { padding-left: 23px; }
+.source-notes li { padding-left: 6px; scroll-margin-top: 145px; }
+.source-notes li:target { background: var(--gold-100); color: var(--ink); }
+.citation-line { padding: 13px 0; border-block: 1px solid var(--line); font-size: 11px; }
+.citation-line .badge { margin-right: 9px; vertical-align: middle; }
+.origin-source-note { background: color-mix(in srgb, var(--gold-100) 55%, transparent); padding: 20px; border-left: 4px solid var(--gold-500); }
+.origin-source-note > p:last-of-type { font-size: 12px; }
+
+.origins-teaser { position: relative; margin-top: 38px; padding: 34px 38px; background: var(--paper-strong); border: 1px solid var(--line); border-left: 6px solid var(--gold-500); box-shadow: var(--shadow-small); }
+.origins-teaser::before { content: "1973"; position: absolute; right: 32px; top: -26px; color: color-mix(in srgb, var(--gold-500) 18%, transparent); font-family: Georgia, serif; font-size: 6rem; line-height: 1; pointer-events: none; }
+.origins-teaser > * { position: relative; z-index: 1; }
+
 /* Briefing */
 .briefing-hero .detail-hero-inner { padding-bottom: 70px; }
 .brief-shell { display: grid; grid-template-columns: minmax(0, 1fr) 300px; gap: 56px; width: min(var(--max-width), calc(100% - 48px)); margin: 0 auto; padding: 30px 0 90px; }
@@ -488,6 +540,7 @@ dialog::backdrop { background: rgba(4, 15, 24, .72); backdrop-filter: blur(3px);
 @media (max-width: 1120px) {
   .primary-nav { gap: 13px; }
   .primary-nav a { font-size: 12px; }
+  .brand { min-width: 215px; }
   .filter-panel { grid-template-columns: repeat(3, 1fr); }
   .field-wide { grid-column: span 2; }
   .filter-actions { align-self: end; }
@@ -496,6 +549,7 @@ dialog::backdrop { background: rgba(4, 15, 24, .72); backdrop-filter: blur(3px);
   .us-cycle::before { display: none; }
   .us-stop { border-top: 1px solid var(--line); }
   .brief-shell { grid-template-columns: minmax(0, 1fr) 270px; gap: 38px; }
+  .origin-insights { grid-template-columns: 1fr; }
 }
 
 @media (max-width: 900px) {
@@ -525,6 +579,7 @@ dialog::backdrop { background: rgba(4, 15, 24, .72); backdrop-filter: blur(3px);
   .brief-aside { display: grid; grid-template-columns: repeat(2, 1fr); gap: 12px; order: -1; }
   .aside-panel { margin-bottom: 0; }
   .detail-body { grid-template-columns: 1fr; }
+  .origins-shell { grid-template-columns: 1fr; }
   .footer-grid { grid-template-columns: 1.5fr 1fr 1fr; gap: 35px; }
 }
 
@@ -555,6 +610,17 @@ dialog::backdrop { background: rgba(4, 15, 24, .72); backdrop-filter: blur(3px);
   .subnav > div { width: max-content; }
   .prose-shell { padding-top: 42px; }
   .source-register, .handoff-grid, .question-grid, .document-list { grid-template-columns: 1fr; }
+  .origin-timeline::before { left: 8px; }
+  .origin-step { grid-template-columns: 1fr; gap: 10px; padding-left: 34px; }
+  .origin-step::before { left: 1px; }
+  .origin-date { text-align: left; }
+  .origin-date strong, .origin-date span { display: inline; }
+  .origin-date span { margin-left: 7px; }
+  .track-grid { grid-template-columns: 1fr; }
+  .evidence-ledger article { grid-template-columns: 1fr; }
+  .evidence-ledger .button { justify-self: start; }
+  .origins-teaser { padding: 27px 24px; }
+  .origins-teaser::before { right: 12px; top: -14px; font-size: 4.5rem; }
   .register-heading { align-items: flex-start; flex-direction: column; }
   .register-row { grid-template-columns: 1fr; gap: 7px; }
   .definition-list div { grid-template-columns: 1fr; gap: 4px; }

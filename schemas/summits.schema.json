@@ -45,6 +45,16 @@
         "era": { "enum": ["Founding group", "Established G7", "Post-Cold War transition", "G8 period", "Renewed G7", "Crisis-era G7"] },
         "themes": { "type": "array", "minItems": 1, "items": { "type": "string" }, "uniqueItems": true },
         "outcomes": { "type": "array", "minItems": 1, "items": { "type": "string" } },
+        "institutional_origins": {
+          "type": "object",
+          "required": ["source_type", "synthesis", "citation", "source_note"],
+          "properties": {
+            "source_type": { "type": "string" },
+            "synthesis": { "type": "string" },
+            "citation": { "type": "string" },
+            "source_note": { "type": "string" }
+          }
+        },
         "documents": { "type": "array", "minItems": 1, "items": { "$ref": "#/$defs/document" } },
         "data_gaps": { "type": "array", "items": { "type": "string" } }
       }

@@ -6,6 +6,7 @@ The data distinguishes:
 
 - factual metadata transcribed from source records;
 - project-created summaries and policy-thread tags;
+- an optional, labeled `institutional_origins` note on the 1975 record, citing Shultz’s retrospective account of the finance-minister precursor;
 - links hosted by an issuing government (`tier: 1`);
 - official summit text accessed through a documentary archive (`tier: 2`);
 - known gaps that should not be filled by inference.

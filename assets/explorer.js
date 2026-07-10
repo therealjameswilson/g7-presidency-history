@@ -90,6 +90,7 @@
       summit.year, S.summitTitle(summit), summit.name, summit.location, summit.city,
       summit.venue, summit.host_country, summit.host_leader, summit.era, summit.format,
       summitSummary(summit), summit.significance, summit.why_it_matters,
+      summit.institutional_origins?.synthesis, summit.institutional_origins?.citation,
       ...summitThemes(summit), ...summitOutcomes(summit),
       ...S.documentsFor(summit).flatMap((item) => [item.title, item.publisher, item.type])
     ].filter(Boolean).join(" ").toLowerCase();
@@ -231,6 +232,7 @@
     const documents = S.documentsFor(summit);
     const outcomes = summitOutcomes(summit);
     const gaps = summit.data_gaps || summit.known_gaps || [];
+    const origins = summit.institutional_origins;
     $("summitDetail").innerHTML = `<header class="detail-head">
       <p class="eyebrow">${S.escapeHtml(summit.era || "Annual leaders’ meeting")} · ${S.escapeHtml(formatLabel(summit))}</p>
       <h2 id="dialogTitle">${S.escapeHtml(summit.year)} · ${S.escapeHtml(S.summitTitle(summit))}</h2>
@@ -240,6 +242,7 @@
     <div class="detail-body">
       <div>
         <section class="detail-section"><h3>Historical setting</h3><p>${S.escapeHtml(summit.context || summit.historical_context || summitSummary(summit))}</p></section>
+        ${origins ? `<section class="detail-section origin-source-note"><h3>Origins before the first summit</h3><p>${S.escapeHtml(origins.synthesis)}</p><p class="citation-line"><span class="badge badge-archive">${S.escapeHtml(origins.source_type)}</span>${S.escapeHtml(origins.citation)}</p><p>${S.escapeHtml(origins.source_note)}</p><a class="text-link" href="origins.html">Read the annotated origins narrative <span aria-hidden="true">→</span></a></section>` : ""}
         <section class="detail-section"><h3>Recorded outcomes</h3>${outcomes.length ? `<ul>${outcomes.map((item) => `<li>${S.escapeHtml(item)}</li>`).join("")}</ul>` : '<p class="empty-note">Outcome summary pending document-level review.</p>'}</section>
         <section class="detail-section"><h3>Why this meeting matters for comparison</h3><p>${S.escapeHtml(summit.why_it_matters || summit.significance || "Use the linked record to compare how this presidency framed its agenda and documented consensus.")}</p></section>
         <section class="detail-section"><h3>Summit record and sources</h3>${documents.length ? documents.map(documentRecord).join("") : '<p class="empty-note">No source link is presently registered.</p>'}</section>
@@ -281,6 +284,7 @@
       <tr><th>Host / setting</th>${cells((item) => `${S.escapeHtml(item.host_country)}<br>${S.escapeHtml(S.displayLocation(item))}<br>${S.escapeHtml(S.displayDate(item))}`)}</tr>
       <tr><th>Format</th>${cells((item) => S.escapeHtml(formatLabel(item)))}</tr>
       <tr><th>Historical setting</th>${cells((item) => S.escapeHtml(item.context || item.historical_context || summitSummary(item)))}</tr>
+      ${selected.some((item) => item.institutional_origins) ? `<tr><th>Institutional origins</th>${cells((item) => item.institutional_origins ? `${S.escapeHtml(item.institutional_origins.synthesis)}<br><small>${S.escapeHtml(item.institutional_origins.citation)}</small>` : "—")}</tr>` : ""}
       <tr><th>Policy threads</th>${cells((item) => tags(summitThemes(item), 20))}</tr>
       <tr><th>Recorded outcomes</th>${cells((item) => `<ul>${summitOutcomes(item).map((outcome) => `<li>${S.escapeHtml(outcome)}</li>`).join("")}</ul>`)}</tr>
       <tr><th>Comparison value</th>${cells((item) => S.escapeHtml(item.why_it_matters || item.significance || "See summit record."))}</tr>

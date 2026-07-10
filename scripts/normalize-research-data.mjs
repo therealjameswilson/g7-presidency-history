@@ -143,6 +143,13 @@ const fatfHistoryDocument = {
   type: "Official institutional history"
 };
 
+const shultzOrigins = {
+  source_type: "Retrospective participant memoir",
+  synthesis: "Shultz later traced a crucial prehistory of the summit system to the March 1973 Library Group: a private circle of the U.S., French, West German, and British finance ministers formed amid monetary turmoil. Japan joined at Shultz’s urging later that year, creating the finance-minister Group of Five.",
+  citation: "George P. Shultz, Turmoil and Triumph: My Years as Secretary of State (New York: Charles Scribner’s Sons, 1993), ch. 11, ‘Allies and Friends in Europe,’ sec. ‘Early Impressions from My Treasury Days,’ pp. 147–48; ch. 13, ‘Japan: Strategic Partner and Economic Power,’ sec. ‘Japan Joins the Club,’ p. 177.",
+  source_note: "The memoir documents an institutional precursor and working method, not the first leaders’ summit. Its 1986 Group of Seven reference concerns enlargement of the finance-minister G5; Canada had already joined the separate leaders’ summit in 1976."
+};
+
 const summits = raw.summits.map((row) => {
   const detailed = [...(row.outcomes || row.themes || [])];
   if (row.year === 1989 && !detailed.some((item) => /Financial Action Task Force|\bFATF\b/i.test(item))) detailed.push(fatfFoundingOutcome);
@@ -166,8 +173,10 @@ const summits = raw.summits.map((row) => {
   let summary = `The leaders’ agenda centered on ${joinNatural(summaryItems)}.`;
   if (row.year === 1989) summary += " The Paris summit also created the Financial Action Task Force (FATF) to develop measures against money laundering.";
   let context = note || `This ${eraFor(row.year).toLowerCase()} meeting paired ${gerundPhrase(detailed[0])} with ${gerundPhrase(detailed[1] || detailed[0])}.`;
+  if (row.year === 1975) context += " Shultz’s memoir locates a crucial precursor in the 1973 Library Group, where four finance ministers developed the private, candid working method later associated with small-group economic coordination; Japan joined that circle later in 1973.";
   if (row.year === 1989) context += " In the Economic Declaration, leaders called for FATF to examine money-laundering techniques, review existing cooperation, and recommend further measures.";
   const whyOverrides = {
+    1975: "Read as institutional lineage rather than a single founding act, Rambouillet’s small-group, candid format resembles a working method already visible in the 1973 finance-minister Library Group while establishing a separate six-government leaders’ forum.",
     1989: "The Paris summit created FATF, establishing a lasting G7-backed mechanism for international anti-money-laundering standards and cooperation.",
     2020: row.why_it_matters,
     2026: "The final summit before the 2027 U.S. presidency created a nine-text implementation record spanning security, global imbalances, critical minerals, AI and digital safety, partnerships, health, and transnational crime."
@@ -202,8 +211,9 @@ const summits = raw.summits.map((row) => {
     themes: policyThemes.length ? policyThemes : ["Institutional governance"],
     outcomes: detailed,
     why_it_matters: why,
+    ...(row.year === 1975 ? { institutional_origins: shultzOrigins } : {}),
     documents,
-    record_status: row.year === 1989 ? "Reviewed · official and archival sources linked" : archivalOnly ? "Reviewed · archived official text" : "Reviewed · official source linked",
+    record_status: row.year === 1975 ? "Reviewed · archived leaders’ text and participant memoir cited" : row.year === 1989 ? "Reviewed · official and archival sources linked" : archivalOnly ? "Reviewed · archived official text" : "Reviewed · official source linked",
     data_gaps: gaps,
     is_us_host: row.host_country === "United States"
   };
